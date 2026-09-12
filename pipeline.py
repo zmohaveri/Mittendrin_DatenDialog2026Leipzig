@@ -29,11 +29,22 @@ OUTPUT_DIR = Path("output")
 
 load_dotenv(dotenv_path=Path.cwd() / ".env")
 
-# LangChains Google-Integration sucht den Key zuerst unter GOOGLE_API_KEY.
-if not os.environ.get("GOOGLE_API_KEY") and os.environ.get("GEMINI_API_KEY"):
-    os.environ["GOOGLE_API_KEY"] = os.environ["GEMINI_API_KEY"]
+# Ein Key fuer jeden Anbieter - init_chat_model reicht ihn an die passende
+# Provider-Klasse durch, egal ob Google, Anthropic oder OpenAI.
+API_KEY = os.environ["LLM_API_KEY"]
 
-CHAT_MODEL = init_chat_model(MODEL)
+CHAT_MODEL = init_chat_model(MODEL, api_key=API_KEY)
+
+# Dauer und Tokenverbrauch des letzten Modellaufrufs, gesetzt von extract_items.
+LAST_USAGE: dict = {}
+
+
+def _angebote(count: int) -> str:
+    return f"{count} {'Angebot' if count == 1 else 'Angebote'}"
+
+
+def _zahl(value: int) -> str:
+    return f"{value:,}".replace(",", ".")
 
 
 # --- Schema ---------------------------------------------------------------
@@ -160,7 +171,10 @@ def _slugify(key: str) -> str:
 
 
 def extract_items(paths: list[Path]) -> dict:
-    """Alle Angebote aus den Dateien holen, in einem Modellaufruf."""
+    """Alle Angebote aus den Dateien holen, in einem Modellaufruf.
+
+    Schreibt Dauer und Tokenverbrauch des Aufrufs nach LAST_USAGE.
+    """
     blocks = []
     for path in paths:
         blocks.append(_content_block(path))
@@ -174,7 +188,12 @@ def extract_items(paths: list[Path]) -> dict:
         }
     )
 
-    text = CHAT_MODEL.invoke([HumanMessage(content=blocks)]).text.strip()
+    started = time.monotonic()
+    response = CHAT_MODEL.invoke([HumanMessage(content=blocks)])
+    LAST_USAGE.update(response.usage_metadata or {})
+    LAST_USAGE["seconds"] = time.monotonic() - started
+
+    text = response.text.strip()
     if text.startswith("```"):
         text = text.removeprefix("```").removeprefix("json").removesuffix("```").strip()
     return json.loads(text)
@@ -189,57 +208,86 @@ def build_adapter_data(slug: str, item: dict, source_name: str) -> dict:
     }
 
 
-def extract_from_paths(file_paths: list[Path]) -> list[dict]:
-    """Pro Angebot eine AdapterData-Instanz.
+def extract_file(path: Path) -> list[dict]:
+    """Eine Datei, ein Modellaufruf, je gefundenem Angebot eine AdapterData-Instanz.
 
-    Jede Datei geht in einen eigenen Modellaufruf, damit adapter.sourceName je
-    Angebot die Quelldatei benennt. Zusammengehoerende Dateien (Vorder- und
-    Rueckseite eines Plakats) stattdessen gemeinsam an extract_items geben.
+    Zusammengehoerende Dateien (Vorder- und Rueckseite eines Plakats) stattdessen
+    gemeinsam an extract_items geben.
     """
-    results = []
-    for path in file_paths:
-        for key, item in extract_items([path]).items():
-            results.append(build_adapter_data(_slugify(key), item, path.name))
-    return results
+    items = extract_items([path])
+    return [
+        build_adapter_data(_slugify(key), item, path.name) for key, item in items.items()
+    ]
 
 
-def write_results(results: list[dict], output_dir: Path = OUTPUT_DIR) -> list[Path]:
-    """Je Angebot eine JSON-Datei, in einem Unterordner je Quelldatei."""
-    written = []
-    for result in results:
-        source_stem = Path(result["adapter"]["sourceName"]).stem
-        target_dir = output_dir / _slugify(source_stem)
-        target_dir.mkdir(parents=True, exist_ok=True)
+def extract_from_paths(file_paths: list[Path]) -> list[dict]:
+    """Alle Dateien extrahieren, ohne zu schreiben. Ein Modellaufruf je Datei."""
+    return [result for path in file_paths for result in extract_file(path)]
 
-        slug = next(iter(result["itemsRecord"]))
-        target = target_dir / f"{slug}.json"
-        target.write_text(
-            json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8"
-        )
-        written.append(target)
-    return written
+
+def write_result(result: dict, output_dir: Path = OUTPUT_DIR) -> Path:
+    """Ein Angebot als JSON-Datei, in einem Unterordner je Quelldatei."""
+    target_dir = output_dir / _slugify(Path(result["adapter"]["sourceName"]).stem)
+    target_dir.mkdir(parents=True, exist_ok=True)
+
+    slug = next(iter(result["itemsRecord"]))
+    target = target_dir / f"{slug}.json"
+    target.write_text(
+        json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    return target
 
 
 def run(input_dir: Path = INPUT_DIR, output_dir: Path = OUTPUT_DIR) -> list[dict]:
-    """Ein kompletter Durchlauf: Dateien finden, extrahieren, schreiben.
+    """Ein kompletter Durchlauf: je Datei extrahieren und sofort schreiben.
 
-    Der Ausgabeordner wird zu Beginn geleert, das Ergebnis zeigt also immer
-    genau den letzten Lauf.
+    Geschrieben wird nach jedem Modellaufruf, nicht erst am Ende - bricht ein
+    spaeterer Aufruf ab, bleiben die bereits erzeugten Angebote erhalten.
+    Der Ausgabeordner wird dafuer erst geleert, wenn der erste Aufruf steht.
     """
     file_paths = [path for path in sorted(input_dir.glob("*")) if path.is_file()]
-    print(f"Dateien: {len(file_paths)}")
-    for path in file_paths:
-        print(f"- {path}")
+    print(f"Modell:  {MODEL}")
+    print(f"Eingabe: {input_dir}/ ({len(file_paths)} Dateien)")
+    print(f"Ausgabe: {output_dir}/\n")
 
-    shutil.rmtree(output_dir, ignore_errors=True)
-    output_dir.mkdir(parents=True)
+    started = time.monotonic()
+    results = []
+    tokens_in = tokens_out = 0
+    cleared = False
 
-    results = extract_from_paths(file_paths)
-    written = write_results(results, output_dir)
+    for number, path in enumerate(file_paths, start=1):
+        print(f"[{number}/{len(file_paths)}] {path.name} ({path.stat().st_size / 1e6:.1f} MB)")
+        extracted = extract_file(path)
 
-    print(f"\nAngebote: {len(results)}")
-    for target in written:
-        print(f"- {target}")
+        tokens_in += LAST_USAGE.get("input_tokens", 0)
+        tokens_out += LAST_USAGE.get("output_tokens", 0)
+
+        # Erst aufraeumen, wenn der erste Aufruf durch ist - ein Fehlschlag
+        # laesst den vorherigen Lauf damit unangetastet.
+        if not cleared:
+            shutil.rmtree(output_dir, ignore_errors=True)
+            output_dir.mkdir(parents=True)
+            cleared = True
+
+        target_dir = None
+        for result in extracted:
+            target_dir = write_result(result, output_dir).parent
+        results.extend(extracted)
+
+        print(
+            f"        {_angebote(len(extracted))}"
+            f" | {LAST_USAGE.get('seconds', 0):.0f}s"
+            f" | Tokens {_zahl(LAST_USAGE.get('input_tokens', 0))} ein"
+            f" / {_zahl(LAST_USAGE.get('output_tokens', 0))} aus"
+        )
+        if target_dir:
+            print(f"        -> {target_dir}")
+
+    print(
+        f"\nFertig: {_angebote(len(results))} aus {len(file_paths)} Dateien"
+        f" | {time.monotonic() - started:.0f}s"
+        f" | Tokens {_zahl(tokens_in)} ein / {_zahl(tokens_out)} aus"
+    )
     return results
 
 
