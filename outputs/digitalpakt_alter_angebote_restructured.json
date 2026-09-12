@@ -1,0 +1,956 @@
+[
+  {
+    "name":"Technik hält Jung - Der Technik- und Begegnungstreff",
+    "description":"",
+    "organisation":"Caritasverband der Diözese Görlitz e.V. - Caritashaus \"St. Elisabeth\"",
+    "address":"Geschwister-Scholl-Str. 3",
+    "zip":"03238",
+    "city":"Finsterwalde",
+    "phone":"+49 3531 5199632",
+    "contact":"finsterwalde@caritas-goerlitz.de",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"",
+    "lat":"51.62498560",
+    "lon":"13.71499050",
+    "imgURL":""
+  },
+  {
+    "name":"Smartphone \/ Tablet & PC Kurse für Generation 55+ und Smartphone Café",
+    "description":"",
+    "organisation":"Stiftung SPI GB NL Brandenburg MGZ Bergschlösschen",
+    "address":"Bergstr. 11",
+    "zip":"03130",
+    "city":"Spremberg",
+    "phone":"+49 3563 2395",
+    "contact":"familienzentrum-spremberg@stiftung-spi.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.mgz-bergschloesschen.org\/",
+    "slug":"\/gute-praxis\/anfaengerkurse-fuer-smartphone\/tablet-sowie-pc-fuer-generation-55",
+    "lat":"51.57512000",
+    "lon":"14.37568010",
+    "imgURL":"\/typo3conf\/packages\/ffb_offer_search\/Resources\/Public\/Images\/defaultlogo.jpg"
+  },
+  {
+    "name":"Digitalcafé im Pücklerdorf Groß Döbbern",
+    "description":"",
+    "organisation":"Altes Pfarrhaus Groß Döbbern e.V.",
+    "address":"Pücklerweg 2",
+    "zip":"03058",
+    "city":"Neuhausen",
+    "phone":"+49 151 12609644",
+    "contact":"steffi@pfarrhaus-gross-doebbern.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.gross-doebbern.de\/",
+    "slug":"\/digitalcafe-im-puecklerdorf-gross-doebbern",
+    "lat":"51.65112080",
+    "lon":"14.33054350",
+    "imgURL":""
+  },
+  {
+    "name":"Digitalberatung für Senioren",
+    "description":"",
+    "organisation":"Gemeinde Niedergörsdorf",
+    "address":"Blönsdorf 22",
+    "zip":"14913",
+    "city":"Niedergörsdorf",
+    "phone":"+49 337 4169733",
+    "contact":"sekretariat@niedergoersdorf.de",
+    "labels":[
+
+    ],
+    "link":"http:\/\/www.niedergörsdorf.de",
+    "slug":"",
+    "lat":"51.95669410",
+    "lon":"12.88659870",
+    "imgURL":""
+  },
+  {
+    "name":"Digital-Café",
+    "description":"",
+    "organisation":"Caritasverband der Diözese Görlitz e.V. - Begegnungszentrum",
+    "address":"Leipziger Str. 12 A",
+    "zip":"03048",
+    "city":"Cottbus",
+    "phone":"+49 355 301072 15",
+    "contact":"mechthild.kretschmer@caritas-cottbus.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.caritas-goerlitz.de\/",
+    "slug":"",
+    "lat":"51.74439900",
+    "lon":"14.31065400",
+    "imgURL":""
+  },
+  {
+    "name":"Digitalpioniere in Sandow",
+    "description":"",
+    "organisation":"Media to Be",
+    "address":"Sandower Hauptstr. 11",
+    "zip":"03048",
+    "city":"Cottbus",
+    "phone":"+49 355 75216850",
+    "contact":"info@m2b-cottbus.de",
+    "labels":[
+
+    ],
+    "link":"http:\/\/www.m2b-cottbus.de\/digitalpioniere-in-sandow\/index.php",
+    "slug":"",
+    "lat":"51.76282420",
+    "lon":"14.34474290",
+    "imgURL":""
+  },
+  {
+    "name":"Volkssolidarität Landesverband Brandenburg e.V. Verbandsbereich Lausitz",
+    "description":"",
+    "organisation":"Volkssolidarität Landesverband Brandenburg e.V. Verbandsbereich Lausitz",
+    "address":"Elisabeth-Wolf-Str. 41",
+    "zip":"03042",
+    "city":"Cottbus",
+    "phone":"+49 355 529822 47",
+    "contact":"sozialarbeiter-spremberg@volkssolidaritaet.de",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"\/gute-praxis\/begegnungscafe",
+    "lat":"51.76553570",
+    "lon":"14.34751590",
+    "imgURL":"\/typo3conf\/packages\/ffb_offer_search\/Resources\/Public\/Images\/defaultlogo.jpg"
+  },
+  {
+    "name":"Computereinstieg leicht gemacht - Erste Schritte mit PC und Smartphone",
+    "description":"",
+    "organisation":"Computereinstieg leicht gemacht - Erste Schritte mit PC und Smartphone",
+    "address":"Magdeburger Str. 5",
+    "zip":"14806",
+    "city":"Bad Belzig",
+    "phone":"+49 33841 531625",
+    "contact":"gneubert27@gmail.com",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"\/gute-praxis\/keine-angst-vor-dem-pc",
+    "lat":"52.14066010",
+    "lon":"12.58658110",
+    "imgURL":"\/typo3conf\/packages\/ffb_offer_search\/Resources\/Public\/Images\/defaultlogo.jpg"
+  },
+  {
+    "name":"Internet & Mobiltelefon - für Jedermann leicht erklärt",
+    "description":"",
+    "organisation":"BegegnungsCafé für Senior*Innen zum Abbau digitaler Hemmschwellen",
+    "address":"Friedensstr. 5",
+    "zip":"15938",
+    "city":"Golßen",
+    "phone":"+49 35452 121860",
+    "contact":"mgh.golssen@drk-fs.de",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"\/gute-praxis\/begegnungscafe-fuer-seniorinnen-und-senioren-zum-abbau-digitaler-hemmschwellen",
+    "lat":"51.97417020",
+    "lon":"13.59954910",
+    "imgURL":"\/typo3conf\/packages\/ffb_offer_search\/Resources\/Public\/Images\/defaultlogo.jpg"
+  },
+  {
+    "name":"Seniorentreff",
+    "description":"",
+    "organisation":"Ortsverein Hennickendorf e.V",
+    "address":"Stangenhagener Str. 7",
+    "zip":"14947",
+    "city":"Nuthe-Urstromtal",
+    "phone":"+49 3373240333",
+    "contact":"tinarindtadam@gmail.com",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"",
+    "lat":"52.16808800",
+    "lon":"13.10182640",
+    "imgURL":""
+  },
+  {
+    "name":"Wegweiser durch die digitale Welt",
+    "description":"",
+    "organisation":"Stadt Beelitz",
+    "address":"Poststr. 15",
+    "zip":"14547",
+    "city":"Beelitz",
+    "phone":"+49 33204 3910",
+    "contact":"info@beelitz.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/beelitz.de\/angebot-fuer-die-unterstuetzung-im-umgang-mit-digitalen-medien\/",
+    "slug":"",
+    "lat":"52.23215480",
+    "lon":"12.97728530",
+    "imgURL":""
+  },
+  {
+    "name":"Gut Älterwerden im vertrauten Wohnumfeld",
+    "description":"",
+    "organisation":"Volkssolidarität Spree-Neiße e.V. Gubener Ortsgruppe 9",
+    "address":"Waldweg 1",
+    "zip":"03172",
+    "city":"Guben",
+    "phone":"+49 3561 2780",
+    "contact":"howetzel@volkssolidaritaet.de",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"\/gute-praxis\/gut-aelterwerden-im-vertrauten-wohnumfeld",
+    "lat":"51.93458800",
+    "lon":"14.67255840",
+    "imgURL":"\/typo3conf\/packages\/ffb_offer_search\/Resources\/Public\/Images\/defaultlogo.jpg"
+  },
+  {
+    "name":"Smartphones - erste Schritte - Kompaktkurs (für Android-Smartphones)",
+    "description":"",
+    "organisation":"Volkshochschule Brandenburg an der Havel\n\n",
+    "address":"Dreifertstr. 30",
+    "zip":"14770",
+    "city":"Brandenburg",
+    "phone":"",
+    "contact":"schindler@vhs-brandenburg.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.vhs-brandenburg.de\/programm\/arbeit-beruf-und-edv.html",
+    "slug":"",
+    "lat":"52.41137680",
+    "lon":"12.52296280",
+    "imgURL":""
+  },
+  {
+    "name":"Digital-Kompass Standort Werder-Havel",
+    "description":"",
+    "organisation":"EvB Sozial-Begegnungszentrum TREFFPUNKT Werder",
+    "address":"Plantagenplatz 11",
+    "zip":"14542",
+    "city":"Werder",
+    "phone":"",
+    "contact":"",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.digital-kompass.de\/standorte\/Standort-Werder-Havel",
+    "slug":"",
+    "lat":"52.37709050",
+    "lon":"12.93182380",
+    "imgURL":""
+  },
+  {
+    "name":"\"Wie war das damals\"",
+    "description":"",
+    "organisation":"Rangsdorfer Senioren Beirat",
+    "address":"Seebadallee 30",
+    "zip":"15834",
+    "city":"Rangsdorf",
+    "phone":"+49 172 3950038",
+    "contact":"juergen.muschinsky@rangsdorf.de",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"",
+    "lat":"52.29257540",
+    "lon":"13.42941050",
+    "imgURL":""
+  },
+  {
+    "name":"„Mit einem Klick dabei“",
+    "description":"",
+    "organisation":"Heimatverein Treppeln 2015 e.V.",
+    "address":"Treppelner Str. 6",
+    "zip":"15898",
+    "city":"Neuzelle",
+    "phone":"+49 336563061",
+    "contact":"info@treppeln.de",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"",
+    "lat":"52.08013910",
+    "lon":"14.54567840",
+    "imgURL":""
+  },
+  {
+    "name":"Seniorensport digital",
+    "description":"",
+    "organisation":"Soziale Stadt ProPotsdam gGmbH",
+    "address":"Milanhorst 9",
+    "zip":"14478",
+    "city":"Potsdam",
+    "phone":"+49 331 5504169",
+    "contact":"heike.roth@milanhorst-potsdam.de",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"",
+    "lat":"52.37960460",
+    "lon":"13.09245930",
+    "imgURL":""
+  },
+  {
+    "name":"Digital Fit",
+    "description":"",
+    "organisation":"Großbeeren hilft e.V.",
+    "address":"Rinus-van-Galen-Str. 4",
+    "zip":"14979",
+    "city":"Großbeeren",
+    "phone":"+49 152 34371480",
+    "contact":"kontakt@grossbeeren-hilft.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.grossbeeren-hilft.de\/",
+    "slug":"",
+    "lat":"52.34952890",
+    "lon":"13.29946770",
+    "imgURL":""
+  },
+  {
+    "name":"Digitalwerkstatt der Stadt- und Landesbibliothek Potsdam",
+    "description":"",
+    "organisation":"Stadt- und Landesbibliothek Potsdam",
+    "address":"Am Kanal 47",
+    "zip":"14467",
+    "city":"Potsdam",
+    "phone":"+49 331 289 6600",
+    "contact":"slb@bibliothek.potsdam.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/bibliothek.potsdam.de\/de\/digitalwerkstatt",
+    "slug":"",
+    "lat":"52.39663210",
+    "lon":"13.05901870",
+    "imgURL":""
+  },
+  {
+    "name":"Akademie 2. Lebenshälfte",
+    "description":"",
+    "organisation":"Akademie 2. Lebenshälfte",
+    "address":"Karl-Liebknecht-Straße 111 A",
+    "zip":"14482",
+    "city":"Potsdam",
+    "phone":"+49 331 2004695",
+    "contact":"aka-potsdam@lebenshaelfte.de",
+    "labels":[
+
+    ],
+    "link":"http:\/\/www.lebenshaelfte.de",
+    "slug":"",
+    "lat":"52.39569780",
+    "lon":"13.09340270",
+    "imgURL":""
+  },
+  {
+    "name":"Techniksprechstunde",
+    "description":"",
+    "organisation":"Akademie 2. Lebenshälfte in Potsdam-Babelsberg",
+    "address":"Karl-Liebknecht-Str. 111 A",
+    "zip":"14482",
+    "city":"Potsdam",
+    "phone":"+49 331 2004695",
+    "contact":"aka-potsdam@lebenshaelfte.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/akademie2.lebenshaelfte.de\/kontaktstellen\/potsdam\/veranstaltungen\/435323-technik-sprechstunde",
+    "slug":"",
+    "lat":"52.39569780",
+    "lon":"13.09340270",
+    "imgURL":""
+  },
+  {
+    "name":"Digital-Kompass Standort Potsdam",
+    "description":"",
+    "organisation":"Mehrgenerationenhaus Treffpunkt Freizeit",
+    "address":"Am Neuen Garten 64",
+    "zip":"14469",
+    "city":"Potsdam",
+    "phone":"",
+    "contact":"",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.digital-kompass.de\/standorte\/Standort-Potsdam",
+    "slug":"",
+    "lat":"52.40742180",
+    "lon":"13.06538600",
+    "imgURL":""
+  },
+  {
+    "name":"Intergenerationelles Projekt - Wir schreiben ein Kinderbuch!",
+    "description":"",
+    "organisation":"Student Author Project e.V",
+    "address":"Iserstr. 76",
+    "zip":"14513",
+    "city":"Teltow",
+    "phone":"+49 151 29136885",
+    "contact":"info@studentauthorproject.com",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.studentauthorproject.com",
+    "slug":"",
+    "lat":"52.38682720",
+    "lon":"13.24650260",
+    "imgURL":""
+  },
+  {
+    "name":"Treffpunkt Im besten Alter in Wannsee, Handy und Laptop Sprechstunde - Fragen und Antworten",
+    "description":"",
+    "organisation":"Gercke & Lala Stiftung",
+    "address":"Königstr. 25-27",
+    "zip":"14109",
+    "city":"Berlin",
+    "phone":"+49 30 801058 515",
+    "contact":"treffpunkt.wannsee@gmail.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.treffpunkt-im-besten-alter.de\/",
+    "slug":"",
+    "lat":"52.41935330",
+    "lon":"13.15374830",
+    "imgURL":""
+  },
+  {
+    "name":"Senioren-Digitalcafé",
+    "description":"",
+    "organisation":"Für ein lebenswertes Zeuthen - FelZ e.V.",
+    "address":"Forstweg 30",
+    "zip":"15738",
+    "city":"Zeuthen",
+    "phone":"+49 151 23160957",
+    "contact":"digitalcafe.zeuthen@gmail.com",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"",
+    "lat":"52.34633110",
+    "lon":"13.62358970",
+    "imgURL":""
+  },
+  {
+    "name":"Smartphone & Co – so geht das!",
+    "description":"",
+    "organisation":"Villa Donnersmarck – Inklusiver Treffpunkt für Freizeit, Bildung, Beratung",
+    "address":"Schädestr. 9-13",
+    "zip":"14165",
+    "city":"Berlin",
+    "phone":"+49 30 847187 0",
+    "contact":"info@villadonnersmarck.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.fdst.de\/villa-donnersmarck\/",
+    "slug":"",
+    "lat":"52.41597250",
+    "lon":"13.25879420",
+    "imgURL":""
+  },
+  {
+    "name":"Digital-Lotsen für Potsdam",
+    "description":"",
+    "organisation":"Akademie 2. Lebenshälfte im Land Brandenburg e. V.",
+    "address":"",
+    "zip":"14476",
+    "city":"Potsdam",
+    "phone":"+49 1575 3579890",
+    "contact":"digitales@aelter-werden-in-potsdam.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/aelter-werden-in-potsdam.de\/digital-lotsen-helfen-potsdamern\/",
+    "slug":"",
+    "lat":"52.46991980",
+    "lon":"12.99657550",
+    "imgURL":""
+  },
+  {
+    "name":"Treffpunkt Digital im Alter",
+    "description":"",
+    "organisation":"Stadtbibliothek Fürstenwalde",
+    "address":"Domplatz 7",
+    "zip":"15517",
+    "city":"Fürstenwalde",
+    "phone":"+49 3361 557 212",
+    "contact":"stadtbibliothek@fuerstenwalde-spree.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/bibliothek.stadt-fuerstenwalde.de\/",
+    "slug":"",
+    "lat":"52.35753250",
+    "lon":"14.06572050",
+    "imgURL":""
+  },
+  {
+    "name":"IT-Gruppe des Seniorenbeirats Falkensee",
+    "description":"",
+    "organisation":"Seniorenbeirat Falkensee",
+    "address":"Sacrower Str. 10 c",
+    "zip":"14612",
+    "city":"Falkensee",
+    "phone":"+49 3322 8508051",
+    "contact":"info@seniorenbeirat-falkensee.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.seniorenbeirat-falkensee.de",
+    "slug":"\/gute-praxis\/beratung-aelterer-menschen-bei-der-nutzung-neuer-medien",
+    "lat":"52.55326070",
+    "lon":"13.12823320",
+    "imgURL":"\/typo3conf\/packages\/ffb_offer_search\/Resources\/Public\/Images\/defaultlogo.jpg"
+  },
+  {
+    "name":"Smartphone Sprechstunde im Vorstadt-Treff",
+    "description":"",
+    "organisation":"Diakonisches Werk Oderland-Spree e.V.",
+    "address":"Landhausstr. 8",
+    "zip":"15344",
+    "city":"Strausberg",
+    "phone":"+49 1515 6390253",
+    "contact":"vorstadt-treff@diakonie-ols.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/diakonie-ols.de\/landhausstrasse-wohnen\/",
+    "slug":"",
+    "lat":"52.53689890",
+    "lon":"13.84292690",
+    "imgURL":""
+  },
+  {
+    "name":"Erfahrungsort Altlandsberg- Digitale Teilhabe für Seniorinnen und Senioren",
+    "description":"",
+    "organisation":"Stadt Altlandsberg - ehrenamtlicher Seniorenbeirat der Stadt Altlandsberg",
+    "address":"Berliner Allee 6",
+    "zip":"15345",
+    "city":"Altlandsberg",
+    "phone":"+49 151 2257567",
+    "contact":"seniorenbeirat@stadt-altlandsberg.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.altlandsberg.de\/leben-wohnen\/bildung-soziales\/seniorenarbeit\/",
+    "slug":"",
+    "lat":"52.55970400",
+    "lon":"13.72235340",
+    "imgURL":""
+  },
+  {
+    "name":"Digital mobil",
+    "description":"",
+    "organisation":"Humanistischer Regionalverband Märkisch-Oderland KdöR",
+    "address":"August-Bebel-Str. 2",
+    "zip":"15344",
+    "city":"Strausberg",
+    "phone":"+49 3341 3080060",
+    "contact":"kontakt@hvd-mol.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/humanistisch.de\/hvd-mol",
+    "slug":"",
+    "lat":"52.57565820",
+    "lon":"13.88047420",
+    "imgURL":""
+  },
+  {
+    "name":"Handy-Schule Panketal",
+    "description":"",
+    "organisation":"Seniorenbeirat Panketal",
+    "address":"Schönower Str. 105",
+    "zip":"16341",
+    "city":"Panketal",
+    "phone":"+49 30 945110",
+    "contact":"seniorenbeirat-panketal@t-online.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/panketal.de\/leben\/senioren\/seniorenbeirat.html",
+    "slug":"",
+    "lat":"52.65991260",
+    "lon":"13.53291140",
+    "imgURL":""
+  },
+  {
+    "name":"Erfahrungsort Podelzig - Digitale Teilhabe im Alter stärken",
+    "description":"",
+    "organisation":"BifA -Bildung für alle Podelzig e.V.",
+    "address":"Am Dorfteich 13",
+    "zip":"15326",
+    "city":"Podelzig",
+    "phone":"+49 151 50066014",
+    "contact":"ute-Radueg@t-online.de",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"\/erfahrungsort-podelzig-digitale-teilhabe-im-alter-staerken",
+    "lat":"52.47255200",
+    "lon":"14.53554800",
+    "imgURL":"\/typo3conf\/packages\/ffb_offer_search\/Resources\/Public\/Images\/defaultlogo.jpg"
+  },
+  {
+    "name":"GenerationsHack-Jung und Alt-Gemeinsam lernen und Spaß haben",
+    "description":"",
+    "organisation":"Seniorenverein Bei en RollaToren e.V.",
+    "address":"Ausbau 5",
+    "zip":"15306",
+    "city":"Lindendorf",
+    "phone":"+49 176 22179095",
+    "contact":"helbigchris@aol.com",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.bei-den-rollatoren.de\/",
+    "slug":"\/generationshack-jung-und-alt-gemeinsam-lernen-und-spass-haben",
+    "lat":"52.51172060",
+    "lon":"14.41896030",
+    "imgURL":"\/typo3conf\/packages\/ffb_offer_search\/Resources\/Public\/Images\/defaultlogo.jpg"
+  },
+  {
+    "name":"Digitale Infonachmittage für Seniorinnen und Senioren",
+    "description":"",
+    "organisation":"Volkssolidarität Landesverband Brandenburg e.V. Verbandsbereich Oderland",
+    "address":"Kirchstr. 1",
+    "zip":"15306",
+    "city":"Seelow",
+    "phone":"+49 152 58740770",
+    "contact":"pflegevorort-seelow@volkssolidaritaet.de",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"",
+    "lat":"52.53336240",
+    "lon":"14.37976130",
+    "imgURL":""
+  },
+  {
+    "name":"Digital-Stammtisch",
+    "description":"",
+    "organisation":"Dorfverein Manker",
+    "address":"Dorfstr. 50",
+    "zip":"16845",
+    "city":"Fehrbellin",
+    "phone":"+49 3394475926",
+    "contact":"gesundaltern@volkssolidaritaet.de",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"",
+    "lat":"52.84570280",
+    "lon":"12.67664110",
+    "imgURL":""
+  },
+  {
+    "name":"Digitale Infonachmittage für Seniorinnen und Senioren",
+    "description":"",
+    "organisation":"Volkssolidarität Landesverband Brandenburg e. V. Verbandsbereich Oderland",
+    "address":"Ernst-Thälmann-Str. 1 a",
+    "zip":"15306",
+    "city":"Seelow",
+    "phone":"+49 3346 8548356",
+    "contact":"pflegevorort-seelow@volkssolidaritaet.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.volkssolidaritaet-brandenburg.de\/beitraege\/oderland-projekt-pflegeberatung-seelow\/",
+    "slug":"",
+    "lat":"52.53446360",
+    "lon":"14.38095400",
+    "imgURL":""
+  },
+  {
+    "name":"Plauderstündchen 2.0 - Handy, Tablet, Internet & Co",
+    "description":"",
+    "organisation":"Golzower für Golzow e.V.",
+    "address":"Hauptstr. 16",
+    "zip":"15328",
+    "city":"Golzow",
+    "phone":"+49 33472 51882",
+    "contact":"info@golzow-oderbruch.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.golzow-oderbruch.de",
+    "slug":"\/plauderstuendchen-20-handy-tablet-internet-co",
+    "lat":"52.57300340",
+    "lon":"14.49264900",
+    "imgURL":"\/typo3conf\/packages\/ffb_offer_search\/Resources\/Public\/Images\/defaultlogo.jpg"
+  },
+  {
+    "name":"Digital dabei",
+    "description":"",
+    "organisation":"Wild frei grün e.V, Freie Naturschule Barnim",
+    "address":"Bahnhofstr. 81a",
+    "zip":"16359",
+    "city":"Biesenthal",
+    "phone":"+49 177 2012698",
+    "contact":"Heybuschkathrin@gmail.com",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"",
+    "lat":"52.75267450",
+    "lon":"13.67525750",
+    "imgURL":""
+  },
+  {
+    "name":"Freunde des Smartphone",
+    "description":"",
+    "organisation":"Gemeinde Letschin - Seniorenbeirat",
+    "address":"Bahnhofstr. 30 a",
+    "zip":"15324",
+    "city":"Letschin",
+    "phone":"+49 33475 605915",
+    "contact":"kultur@letschin.de",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"",
+    "lat":"52.64083440",
+    "lon":"14.35566860",
+    "imgURL":""
+  },
+  {
+    "name":"Senior*innen - Digital",
+    "description":"",
+    "organisation":"Begegnungsstätte Liebenwalde der Volkssolidarität LV Brbg. e.V., VB OHV-UM",
+    "address":"Bahnhofstr. 11",
+    "zip":"16559",
+    "city":"Liebenwalde",
+    "phone":"+49 3307 30295 03",
+    "contact":"bgst-zehdenick@volkssolidaritaet.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.volkssolidaritaet-brandenburg.de\/beitraege\/oberhavel-uckermark-begegnungsstaette-liebenwalde\/",
+    "slug":"\/seniorinnen-digital",
+    "lat":"52.87142960",
+    "lon":"13.39996280",
+    "imgURL":"\/typo3conf\/packages\/ffb_offer_search\/Resources\/Public\/Images\/defaultlogo.jpg"
+  },
+  {
+    "name":"Digitales Gemeindezentrum für Alt & Jung",
+    "description":"",
+    "organisation":"Förderverein \"Krumme Weide\" Ortwig e.V.",
+    "address":"Ortwiger Dorfstr. 4",
+    "zip":"15324",
+    "city":"Letschin",
+    "phone":"+49 33478 262",
+    "contact":"KrummeWeide@t-online.de",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"",
+    "lat":"52.70176900",
+    "lon":"14.35813040",
+    "imgURL":""
+  },
+  {
+    "name":"Freunde des Smartphone",
+    "description":"",
+    "organisation":"Gemeinde Letschin - Seniorenbeirat",
+    "address":"Wilhelm Pieck Str. 1 a",
+    "zip":"15324",
+    "city":"Letschin",
+    "phone":"+49 33475 605915",
+    "contact":"kultur@letschin.de",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"",
+    "lat":"52.70313260",
+    "lon":"14.35534550",
+    "imgURL":""
+  },
+  {
+    "name":"Digitales Gemeindezentrum für Alt & Jung",
+    "description":"",
+    "organisation":"Förderverein \"Krumme Weide\" Ortwig e.V.",
+    "address":"Wilhelm Pieck Str. 1",
+    "zip":"15324",
+    "city":"Letschin",
+    "phone":"+49 33478 262",
+    "contact":"KrummeWeide@t-online.de",
+    "labels":[
+
+    ],
+    "link":"",
+    "slug":"\/gute-praxis\/digitales-gemeindezentrum-fuer-alt-jung",
+    "lat":"52.70313260",
+    "lon":"14.35534550",
+    "imgURL":"\/typo3conf\/packages\/ffb_offer_search\/Resources\/Public\/Images\/defaultlogo.jpg"
+  },
+  {
+    "name":"Handy-Lotsen für Senior*innen",
+    "description":"",
+    "organisation":"Volkssolidarität LV Brbg. e.V., VB OHV-UM",
+    "address":"Klosterstr. 9",
+    "zip":"16792",
+    "city":"Zehdenick",
+    "phone":"+49 152 24915219",
+    "contact":"bgst-zehdenick@volkssolidaritaet.de",
+    "labels":[
+
+    ],
+    "link":"http:\/\/www.volkssolidaritaet-brandenburg.de\/beitraege\/oberhavel-uckerma",
+    "slug":"",
+    "lat":"52.97889520",
+    "lon":"13.33410840",
+    "imgURL":""
+  },
+  {
+    "name":"Internetcafe - Clever Altern",
+    "description":"",
+    "organisation":"ESTAruppin e.V.",
+    "address":"Wittstocker Str. 63",
+    "zip":"16909",
+    "city":"Heiligengrabe",
+    "phone":"",
+    "contact":"cleverimalter@estaruppin.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/estaruppin.de\/clever-im-alter\/",
+    "slug":"\/gute-praxis\/digitaler-erfahrungsort-heiligengrabe",
+    "lat":"53.14548450",
+    "lon":"12.36418440",
+    "imgURL":"\/typo3conf\/packages\/ffb_offer_search\/Resources\/Public\/Images\/defaultlogo.jpg"
+  },
+  {
+    "name":"Digital-Kompass Standort Wittstock",
+    "description":"",
+    "organisation":"Seniorenbegegnungsstätte der Volkssolidarität Prignitz-Ruppin",
+    "address":"Poststr. 11",
+    "zip":"16909",
+    "city":"Wittstock",
+    "phone":"",
+    "contact":"",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.digital-kompass.de\/standorte\/Standort-Wittstock",
+    "slug":"",
+    "lat":"53.16265590",
+    "lon":"12.48325690",
+    "imgURL":""
+  },
+  {
+    "name":"Kümmerer Pflege vor Ort",
+    "description":"",
+    "organisation":"Stadt Rheinsberg",
+    "address":"Schillerstr. 9",
+    "zip":"16831",
+    "city":"Rheinsberg",
+    "phone":"+49 33931 49011",
+    "contact":"kuemmerer@rheinsberg.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.rheinsberg.de\/home.html",
+    "slug":"",
+    "lat":"53.10314280",
+    "lon":"12.89196460",
+    "imgURL":""
+  },
+  {
+    "name":"Gemeinsam DIGITAL - MITEINANDER lernen und LACHEN",
+    "description":"",
+    "organisation":"Heimatverein \"Alte Schule\" Wernikow e.V.",
+    "address":"Wernikower Dorfstr. 49",
+    "zip":"16909",
+    "city":"Heiligengrabe",
+    "phone":"+49 163 785 1360",
+    "contact":"thekla@hof-gruenhagen.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.wernikow.de\/",
+    "slug":"\/gemeinsam-digital-miteinander-lernen-und-lachen",
+    "lat":"53.20827410",
+    "lon":"12.43186100",
+    "imgURL":"\/typo3conf\/packages\/ffb_offer_search\/Resources\/Public\/Images\/defaultlogo.jpg"
+  },
+  {
+    "name":"Senior*in Digital",
+    "description":"",
+    "organisation":"SGD 3.0 - Senioren*innen gehen Digital 3.0 - Angermünde",
+    "address":"Schwedter Str. 22",
+    "zip":"16278",
+    "city":"Angermünde",
+    "phone":"+49 3984 832216",
+    "contact":"haus-der-familie@igfrauen.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/igfrauen-pz.de\/startseite\/haus-der-familie\/",
+    "slug":"",
+    "lat":"53.01670930",
+    "lon":"14.01303350",
+    "imgURL":""
+  },
+  {
+    "name":"Digitales Seniorencafé",
+    "description":"",
+    "organisation":"Uckermärkische Bildungsverbund gGmbH",
+    "address":"Kunower Str. 3",
+    "zip":"16303",
+    "city":"Schwedt",
+    "phone":"+49 3332 450972",
+    "contact":"projekte@ubv-schwedt.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.ubv-schwedt.de\/",
+    "slug":"",
+    "lat":"53.05736920",
+    "lon":"14.25216630",
+    "imgURL":""
+  },
+  {
+    "name":"Digitalcafé",
+    "description":"",
+    "organisation":"Volkssolidarität LV Brandenburg e.V.",
+    "address":"Kastanienallee 29",
+    "zip":"16303",
+    "city":"Schwedt",
+    "phone":"+49 3332 8334070",
+    "contact":"begegnungsstaette-schwedt@volkssolidaritaet.de",
+    "labels":[
+
+    ],
+    "link":"https:\/\/www.volkssolidaritaet-brandenburg.de\/beitraege\/oberhavel-uckermark-verbandsbereich-oberhavel-uckermark\/",
+    "slug":"\/gute-praxis\/digital-im-quartier-begegnungsstaette-kastanienhoefe",
+    "lat":"53.05976180",
+    "lon":"14.24910610",
+    "imgURL":"\/typo3conf\/packages\/ffb_offer_search\/Resources\/Public\/Images\/defaultlogo.jpg"
+  }
+]
