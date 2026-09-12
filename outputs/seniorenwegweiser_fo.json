@@ -1,0 +1,2030 @@
+{
+  "adapter": {
+    "name": "senior-offers-pdf-import",
+    "sourceName": "PDF Import"
+  },
+  "lastUpdate": 1789211312,
+  "version": "1.0",
+  "itemsRecord": {
+    "3870d521-b01e-497d-85a5-151d38c99440": {
+      "title": "Seniorentreff Süd",
+      "state": "draft",
+      "brief": {
+        "de": "Gemeinsamer Seniorentreff mit Spielen und Handarbeiten bei der Evangelischen Freikirche Gemeinde Wort und Glauben e.V."
+      },
+      "description": {
+        "de": "Jeden Donnerstag ab 14:00 Uhr treffen sich Interessierte zum Spielenachmittag und zu Handarbeiten. Eine Gemeinschaftsaktion mit der Wohnungswirtschaft Frankfurt (Oder) GmbH."
+      },
+      "location": "Evangelische Freikirche Gemeinde Wort und Glauben e.V.",
+      "address": "Sonnenallee 64",
+      "zip": "15236",
+      "city": "Frankfurt (Oder)",
+      "recurring_event": "[[\"weekly\",\"thu\",\"14:00\",null,null]]"
+    },
+    "641b996c-020d-422d-9954-5b9b2dfdc210": {
+      "title": "Seniorentreff Nord beim Verein RSV Hansa 90",
+      "state": "draft",
+      "brief": {
+        "de": "Regelmäßiger Seniorentreff beim Verein RSV Hansa 90 in Frankfurt (Oder)."
+      },
+      "description": {
+        "de": "Montags ab 15:00 Uhr findet der Seniorentreff beim Verein RSV Hansa 90 statt. Eine Gemeinschaftsaktion mit der Wohnungswirtschaft Frankfurt (Oder) GmbH."
+      },
+      "location": "Verein RSV Hansa 90",
+      "address": "Stendaler Straße 26",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "phone": "0335 401 40 14",
+      "resubmissionDate": "2025-12-31"
+    },
+    "cb43618b-e8d7-474e-bf63-172dd1422399": {
+      "title": "Seniorentreff Nord (Prager Straße)",
+      "state": "draft",
+      "brief": {
+        "de": "Seniorentreff in der Prager Straße für Gespräche, Spiele und Beisammensein."
+      },
+      "description": {
+        "de": "Dienstags ab 13:00 Uhr treffen sich Interessierte in der Prager Straße zum Reden, Spielen und zum gemütlichen Beisammensein."
+      },
+      "address": "Prager Straße 19",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "recurring_event": "[[\"weekly\",\"tue\",\"13:00\",null,null]]"
+    },
+    "550b4985-1dae-4965-8f9e-c564a02f48f3": {
+      "title": "Hauskrankenpflege „Diakoniestation\"",
+      "state": "draft",
+      "brief": {
+        "de": "Ambulante Pflege und Unterstützung durch die Diakoniestation."
+      },
+      "description": {
+        "de": "Wir pflegen, unterstützen und helfen älteren Menschen und Menschen mit Pflegebedarf in Frankfurt (Oder)."
+      },
+      "address": "Luisenstraße 22",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "diakoniestation@wichern-ffo.de",
+      "phone": "0335 542 317",
+      "resubmissionDate": "2025-12-31"
+    },
+    "22e959c1-8368-4318-a454-8755547231af": {
+      "title": "Hospiz „Regine-Hildebrandt-Haus\"",
+      "state": "draft",
+      "brief": {
+        "de": "Stationäres Hospiz für schwersterkrankte Menschen."
+      },
+      "description": {
+        "de": "Das „Regine-Hildebrandt-Haus“ bietet Menschen mit schweren Erkrankungen den Raum für ein würdevolles Leben mit ihrer Krankheit und ein würdevolles Abschiednehmen von ihrem Leben."
+      },
+      "address": "Bergstraße 171",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "hospiz@wichern-ffo.de",
+      "phone": "0335 284 920"
+    },
+    "45928b00-626e-4e88-9d15-b83f1bdf0ee6": {
+      "title": "Tagespflege für Senioren (Wichern Diakonie)",
+      "state": "draft",
+      "brief": {
+        "de": "Teilstationäre Tagespflege für Senioren."
+      },
+      "description": {
+        "de": "Tagespflege für Senioren zur Betreuung tagsüber bei gleichzeitiger Versorgung in der eigenen Wohnung am Abend und nachts."
+      },
+      "address": "Dr.-Hedwig-Hahn-Str. 1a",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "tagespflege@wichern-ffo.de",
+      "phone": "0335 283 957 11"
+    },
+    "95405133-9461-4161-9f77-c3e95a62358b": {
+      "title": "Service-Wohnen für Senioren (Wichern)",
+      "state": "draft",
+      "brief": {
+        "de": "Service-Wohnen für ein selbstständiges Leben mit Unterstützung."
+      },
+      "description": {
+        "de": "Wohnen in den eigenen vier Wänden verbunden mit Service- und Hilfsangeboten bei Bedarf."
+      },
+      "address": "Humboldtstr. 20",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "info@wichern-ffo.de",
+      "phone": "0335 5556-709"
+    },
+    "bbd52678-ad75-4dcc-b681-b186364f33cb": {
+      "title": "Wohngemeinschaften für Demenzerkrankte (Wichern)",
+      "state": "draft",
+      "brief": {
+        "de": "Wohngemeinschaften für Menschen mit Demenz."
+      },
+      "description": {
+        "de": "Gemeinschaftliches Wohnen für Demenzerkrankte mit rundum Betreuung und Unterstützung im Alltag."
+      },
+      "address": "Luisenstraße 22",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "demenz-wg@wichern-ffo.de",
+      "phone": "0335 5556-611"
+    },
+    "9053ed85-ce65-43a6-8726-496fe6778ee2": {
+      "title": "Rechtsanwalt Steuerberater kbz.",
+      "state": "draft",
+      "brief": {
+        "de": "Rechtsberatung und Steuerberatung in Frankfurt (Oder)."
+      },
+      "description": {
+        "de": "Professionelle Beratung in verschiedenen Rechtsgebieten sowie umfassende Steuerberatung."
+      },
+      "address": "Heilbronner Straße 19",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "buero-ffo@kbz24.com",
+      "phone": "0335 4015050",
+      "resubmissionDate": "2025-12-31"
+    },
+    "47262e0d-0af6-4780-85a1-3b45cc5cd8ab": {
+      "title": "Seniorenbeirat der Stadt Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Interessenvertretung der älteren Bürgerinnen und Bürger in Frankfurt (Oder)."
+      },
+      "description": {
+        "de": "Der Seniorenbeirat vertritt die Interessen älterer Bürger gegenüber Behörden und Institutionen und setzt sich für deren Teilhabe am gesellschaftlichen Leben ein."
+      },
+      "address": "Postfach 1363",
+      "zip": "15203",
+      "city": "Frankfurt (Oder)",
+      "email": "seniorsenbeirat-ffo@mail.de"
+    },
+    "995328a9-f4cb-4af8-85e5-473202e33c78": {
+      "title": "Behindertenbeirat der Stadt Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Unabhängige Interessenvertretung für Menschen mit Behinderung."
+      },
+      "description": {
+        "de": "Der Beirat tritt für die Selbstbestimmung, Inklusion und gleichberechtigte Teilhabe von Menschen mit Behinderung ein und berät die Stadt."
+      },
+      "city": "Frankfurt (Oder)",
+      "email": "behindertenbeirat@frankfurt-oder.de"
+    },
+    "186a52a2-9c78-4638-bec3-08c0780817bd": {
+      "title": "Pflege- und Geriatrie-Netzwerk Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Netzwerk zur Verbesserung der regionalen Versorgungsstrukturen in der Pflege."
+      },
+      "description": {
+        "de": "Ein Zusammenschluss von Akteuren aus Pflege, Gesundheit und Verwaltung zur Erhaltung und Verbesserung der Versorgung in der Stadt."
+      },
+      "city": "Frankfurt (Oder)",
+      "phone": "0335 55 42-110"
+    },
+    "ca579be7-1548-42bd-b2a4-55a1f575d0b4": {
+      "title": "Volkshochschule Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Bildungs- und Kursangebote für verschiedene Interessengruppen, speziell auch für Senioren."
+      },
+      "description": {
+        "de": "Die VHS bietet zahlreiche Kurse in den Bereichen Gesellschaft, Kultur, Gesundheit, Sprachen und Computer an, darunter spezielle Vormittagskurse für Senioren."
+      },
+      "address": "Gartenstraße 1",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "info@vhs-ffo.de",
+      "phone": "0335 54 20 25"
+    },
+    "cc40d050-ae76-47bc-b944-63b1b3153dc1": {
+      "title": "MehrGenerationenHaus MIKADO",
+      "state": "draft",
+      "brief": {
+        "de": "Offenes Begegnungszentrum für alle Generationen mit vielfältigen Angeboten."
+      },
+      "description": {
+        "de": "Das MIKADO bietet ein Kontaktcafé, Beratung, Freizeitangebote und generationenübergreifende Begegnungsmöglichkeiten für Jung und Alt."
+      },
+      "address": "Franz-Mehring-Straße 20",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "mikado@stiftung-spi.de",
+      "phone": "0335 387 18 90"
+    },
+    "a796aeda-bedb-4369-9308-755f14770b53": {
+      "title": "Seniorenstübchen „Nord\" Volkssolidarität",
+      "state": "draft",
+      "brief": {
+        "de": "Gemütlicher Treffpunkt zum Reden und Spielen."
+      },
+      "description": {
+        "de": "Dienstags ab 13:00 Uhr treffen sich Interessierte im Seniorenstübchen zum Reden, Spielen und zum gemütlichen Beisammensein."
+      },
+      "address": "Prager Straße 19 (1. Etage)",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "frankfurt-oder@volkssolidaritaet.de",
+      "phone": "0335 61 01 63 84",
+      "resubmissionDate": "2025-12-31"
+    },
+    "7774318a-69c9-4226-b4e3-0c29db579fb7": {
+      "title": "cityTREFF bez granic",
+      "state": "draft",
+      "brief": {
+        "de": "Begegnungs- und Veranstaltungsstätte für deutsch-polnischen Austausch."
+      },
+      "description": {
+        "de": "Raum für Kultur, Soziales und gemeinschaftliche Aktivitäten über Grenzen hinweg, von Lesungen bis zu Workshops."
+      },
+      "address": "Slubicer Str. 8",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)"
+    },
+    "d61168da-65c5-4f09-a82f-6d32a8eb8118": {
+      "title": "Begegnungsstätte „Oderblick\" Volkssolidarität",
+      "state": "draft",
+      "brief": {
+        "de": "Treffpunkt für Beratung, Information und Geselligkeit."
+      },
+      "description": {
+        "de": "Die Begegnungsstätte bietet Raum für Freizeitgestaltung, Gedankenaustausch und regelmäßige Ausstellungen."
+      },
+      "address": "Logenstraße 1",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "frankfurt-oder@volkssolidaritaet.de",
+      "phone": "0335 61 01 63 84"
+    },
+    "5f698779-5d0f-4423-b303-71da555f6a77": {
+      "title": "ASB-Begegnungsstätte für Senioren",
+      "state": "draft",
+      "brief": {
+        "de": "Freizeit- und Begegnungsangebot für ältere Menschen."
+      },
+      "description": {
+        "de": "Bietet Themenachmittage, Spiele, Basteln, Ausflüge, Feiern und Sport für Senioren an."
+      },
+      "address": "Lindenstraße 18",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "seniorentreff-ffo@asb-ostbrandenburg.de",
+      "phone": "0335 27 62 97 35"
+    },
+    "fc2d2dec-7ac3-4134-a5bb-35eed847cddf": {
+      "title": "Caritas Seniorenzentrum „Albert Hirsch\"",
+      "state": "draft",
+      "brief": {
+        "de": "Seniorenzentrum mit vielfältigen Betreuungs- und Wohnangeboten."
+      },
+      "description": {
+        "de": "Einrichtung für Senioren mit stationärer Pflege, Tagespflege und Betreuungsangeboten."
+      },
+      "address": "Prager Straße 18 a",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "hirsch@caritas-altenhilfe.de",
+      "phone": "0335 682 90"
+    },
+    "c0d8b6db-2586-4208-8599-60e79a658174": {
+      "title": "Seniorenbegrenzungscafé „Lebenszeichen\"",
+      "state": "draft",
+      "brief": {
+        "de": "Kirchliches Seniorencafé mit Beratung und Gemeinschaft."
+      },
+      "description": {
+        "de": "Bietet alle 14 Tage mittwochs Begegnung, Gespräche, Gymnastik, Musik und Begleitung an."
+      },
+      "address": "Gertraudenplatz 6",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "begegnung@lebenszeichen-frankfurt.info",
+      "phone": "0177 492 67 00"
+    },
+    "072870a6-6b05-4835-9601-7f3920a5b23a": {
+      "title": "Arbeiterwohlfahrt – Offene Seniorenarbeit",
+      "state": "draft",
+      "brief": {
+        "de": "Offener Seniorentreff im Seniorenheim „Am Südring\"."
+      },
+      "description": {
+        "de": "Bietet gemütliches Beisammensein donnerstags ab 14:00 Uhr, gemeinsame Unternehmungen und Seniorentanz."
+      },
+      "address": "Konstantin-Ziolkowski-Allee 49",
+      "zip": "15236",
+      "city": "Frankfurt (Oder)",
+      "phone": "0335 400 81 00"
+    },
+    "6dad7fa2-81a2-4ecc-8f14-4603e8e7dd26": {
+      "title": "Bürgerladen-Begegnungsstätte und Sozialkaufhaus",
+      "state": "draft",
+      "brief": {
+        "de": "Treffpunkt und Sozialkaufhaus der Arbeitsloseninitiative."
+      },
+      "description": {
+        "de": "Bietet einen Seniorentreff mit Aktivitäten wie Basteln, Singen und Wandern sowie ein Sozialkaufhaus."
+      },
+      "address": "Fürstenwalder Straße 48/49",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "phone": "0335 53 58 74"
+    },
+    "4b08a92c-fc48-4ebb-8443-d2368a597c33": {
+      "title": "Mieterinsel „Gute Stube\"",
+      "state": "draft",
+      "brief": {
+        "de": "Offener Treffpunkt für Menschen aller Altersgruppen zur Förderung der Inklusion."
+      },
+      "description": {
+        "de": "Bietet kreative Projekte, Ausflüge, die Mieterinsel sowie den Beratungsdienst „BeFaJu“."
+      },
+      "address": "Pablo-Neruda-Block 2",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "gutestube@lebenshilfe-ffo.de",
+      "phone": "0335 28 05 10-27"
+    },
+    "a17816af-ce9e-449c-841f-a05365f9bd16": {
+      "title": "Haus der Begegnung",
+      "state": "draft",
+      "brief": {
+        "de": "Zentrale Anlaufstelle gegen Vereinsamung mit vielfältigen Kursen und Selbsthilfegruppen."
+      },
+      "description": {
+        "de": "Bietet Beratung, Chor, Spiele, Medienbildung, Handarbeiten, Kurse wie Taiji und Gemeinschaftsfeiern."
+      },
+      "address": "Platz der Begegnung 4",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "hdb@lebenshilfe-ffo.de",
+      "phone": "0335 28 05 10 42"
+    },
+    "7b5ceba4-de3c-476b-92d0-b20890a38758": {
+      "title": "vis à vis – Treff Gesundheit und Teilhabe",
+      "state": "draft",
+      "brief": {
+        "de": "Offener Treffpunkt für Gesundheitsvorsorge und aktives Wohlbefinden."
+      },
+      "description": {
+        "de": "Gibt Anregungen für präventive Gesundheit, aktive Lebensweise und gesunde Ernährung."
+      },
+      "address": "Wallensteinstraße 9",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "visavis@lebenshilfe-ffo.de",
+      "phone": "0335 28 05 10-48"
+    },
+    "564ce9cd-6707-4345-acaa-75034dd14771": {
+      "title": "Stadtsportbund Frankfurt (Oder) e. V.",
+      "state": "draft",
+      "brief": {
+        "de": "Dachverband der Sportvereine mit breitem Programm für Sport und Prävention."
+      },
+      "description": {
+        "de": "Bietet Sportgelegenheiten und Präventionskurse für alle Altersgruppen, auch für Untrainierte und Anfänger."
+      },
+      "address": "Paul-Feldner-Straße 7",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "info@ssb-ffo.de",
+      "phone": "0335 60 68 88 87"
+    },
+    "0663db42-0c9d-4ead-9086-4039f3f91b20": {
+      "title": "Sport-Gesundheitszentrum Frankfurt (Oder) e. V.",
+      "state": "draft",
+      "brief": {
+        "de": "Gemeinnütziger Verein für Reha-, Präventions- und Gesundheitssport."
+      },
+      "description": {
+        "de": "Bietet Rehabilitationssport bei verschiedenen Erkrankungen, Präventionskurse und fachlich angeleitete Trainingseinheiten."
+      },
+      "address": "Zehmeplatz 11 b",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "info.sgzffo@gmail.com",
+      "phone": "0335 665 94 90"
+    },
+    "b75d9a30-278c-43cb-bdd1-7fd5d871978b": {
+      "title": "ASB Gesundheitszentrum Frankfurt (Oder) gGmbH",
+      "state": "draft",
+      "brief": {
+        "de": "Gesundheitszentrum mit Rehasport und medizinischen Angeboten."
+      },
+      "description": {
+        "de": "Bietet Senioren- und Rehasport, Physiotherapie sowie medizinische Fachbereiche an."
+      },
+      "address": "Heilbronner Straße 24",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "gesundheitszentrum@asb-ostbrandenburg.de",
+      "phone": "0335 869 46 67 40"
+    },
+    "7af7f926-81cf-441e-b07e-ff9671b0562b": {
+      "title": "Femaktiv Frauensport-Club",
+      "state": "draft",
+      "brief": {
+        "de": "Inklusiver Frauensportclub für ganzheitliche Gesundheit und Bewegung."
+      },
+      "description": {
+        "de": "Bietet Zirkeltraining, Powerkurse, Entspannungs- und Yogastile für Frauen an."
+      },
+      "address": "Gartenstraße 2",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "femaktiv@lebenshilfe-ffo.de",
+      "phone": "0335 28 05 10-76"
+    },
+    "f273228a-31e0-4ace-ac12-79e0659ef1b7": {
+      "title": "Sportverein „AktivFit\"",
+      "state": "draft",
+      "brief": {
+        "de": "Inklusiver Sportverein für Menschen mit und ohne Beeinträchtigungen."
+      },
+      "description": {
+        "de": "Bietet vielfältige Bewegungsangebote von Zumba und Yoga bis zu Kraftdreikampf für eine aktive Lebensweise."
+      },
+      "address": "Hansastraße 3",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "aktivfit@lebenshilfe-ffo.de",
+      "phone": "0335 28 05 10-93"
+    },
+    "c7e96618-4279-46b7-b67c-196463299b39": {
+      "title": "Freiwilligenzentrum Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Beratungsstelle zur Vermittlung von freiwilligem Engagement."
+      },
+      "description": {
+        "de": "Unterstützt Bürger bei der Suche nach einer passenden ehrenamtlichen Tätigkeit, um Erfahrungen und Kenntnisse einzubringen."
+      },
+      "address": "Leipziger Straße 53/54",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "freiwilligenzentrum-frankfurt-oder@caritas-brandenburg.de",
+      "phone": "0335 56 54-141"
+    },
+    "fccc0051-2c9b-4b4b-93fc-3a6b03daf6e6": {
+      "title": "ASB Hausnotruf Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Sicherheitsdienst für schnelle Hilfe auf Knopfdruck zu Hause."
+      },
+      "description": {
+        "de": "Bietet einen Hausnotruf mit kleinen Sendern für den Notfall, um rund um die Uhr kompetente Hilfe zu gewährleisten."
+      },
+      "address": "Zehmeplatz 12",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "hausnotruf@asb-ostbrandenburg.de",
+      "phone": "0335 38 72 84 21"
+    },
+    "0fd080b6-c5c6-4c20-ac77-574c57a9ad70": {
+      "title": "ASB Mobiler Mahlzeitendienst „Essen auf Rädern\"",
+      "state": "draft",
+      "brief": {
+        "de": "Ambulanter Mahlzeitendienst für tägliche warme Gerichte."
+      },
+      "description": {
+        "de": "Liefert Mahlzeiten direkt nach Hause, wochenweise oder einzeln bestellbar."
+      },
+      "address": "Gubener Straße 2",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "kueche@asb-ostbrandenburg.de",
+      "phone": "0335 401 28 96 25"
+    },
+    "c0a0f764-f1f0-4692-be61-ebd8c32742fc": {
+      "title": "AWO mobil – Essen auf Rädern",
+      "state": "draft",
+      "brief": {
+        "de": "Mahlzeitendienst der AWO für ältere Menschen."
+      },
+      "description": {
+        "de": "Liefert tägliches Essen nach Hause zur Entlastung im Alltag."
+      },
+      "address": "Heinrich-Hildebrand-Straße 20 d",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "mobil@awo-kv-ff.de",
+      "phone": "0335 400 81 16"
+    },
+    "397278db-1950-42d0-ac10-13529d28a721": {
+      "title": "Restaurant „Café Nord” – Lebenshilfe",
+      "state": "draft",
+      "brief": {
+        "de": "Mittagstisch und Lieferservice für warme Mahlzeiten."
+      },
+      "description": {
+        "de": "Bietet täglich eine große Auswahl an verschiedenen Gerichten zum Mittagstisch und als Lieferservice."
+      },
+      "address": "Hansastraße 3",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "cafe.nord@lebenshilfe-ffo.de",
+      "phone": "0335 28 05 10 26"
+    },
+    "605848c6-6266-4ca1-b68f-af345bd99d0b": {
+      "title": "Johanniter-Unfall-Hilfe e. V. – Essen auf Rädern",
+      "state": "draft",
+      "brief": {
+        "de": "Mobiler Mahlzeitendienst für die Region."
+      },
+      "description": {
+        "de": "Liefert frisch zubereitete Mahlzeiten zuverlässig nach Hause."
+      },
+      "address": "Heinrich-Hildebrand-Straße 22 b",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "fahrdienst.odls@johanniter.de",
+      "phone": "03366 520 76 60"
+    },
+    "282b9939-9705-4243-aa7e-455f6631c236": {
+      "title": "Fahrdienst des DRK – KV Märkisch-Oderland-Havel-Spree e. V.",
+      "state": "draft",
+      "brief": {
+        "de": "Mahlzeiten- und Fahrdienst des DRK."
+      },
+      "description": {
+        "de": "Bietet mobile Verpflegung und Unterstützung im Alltag."
+      },
+      "address": "Briesener Straße 1",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "robert.kersten@drk-mohs.de",
+      "phone": "0335 401 36 34 20"
+    },
+    "33264c7f-7d9d-41c4-b090-2ad2db72387b": {
+      "title": "Mobil – Service",
+      "state": "draft",
+      "brief": {
+        "de": "Ambulanter Mahlzeitendienst in Frankfurt (Oder)."
+      },
+      "description": {
+        "de": "Liefert Mahlzeiten direkt an die Haustür."
+      },
+      "address": "Heißer Kohlhofweg 4",
+      "zip": "15236",
+      "city": "Frankfurt (Oder)",
+      "phone": "0335 53 34 19"
+    },
+    "19fc4acb-c34d-4847-96e2-ae3e6fd23a90": {
+      "title": "ASB-Vitalis Fahrdienst",
+      "state": "draft",
+      "brief": {
+        "de": "Fahr- und Begleitdienst für mobilitätseingeschränkte Personen."
+      },
+      "description": {
+        "de": "Unterstützt sicher und zuverlässig bei Fahrten zum Arzt, zu Therapien oder im Alltag."
+      },
+      "address": "Heilbronner Straße 24",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "fahrdienst@asb-ostbrandenburg.de",
+      "phone": "0335 401 36 82 15"
+    },
+    "7f837575-bb63-4d0e-9852-5b80eca48e78": {
+      "title": "Johanniter-Unfall-Hilfe e. V. – Notrufdienste",
+      "state": "draft",
+      "brief": {
+        "de": "Hausnotruf-Dienst für Sicherheit zu Hause."
+      },
+      "description": {
+        "de": "Ermöglicht schnelle Hilfe per Knopfdruck in jeder Wohnsituation."
+      },
+      "address": "Heinrich-Hildebrand-Straße 20 b",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "notrufdienste.odls@johanniter.de",
+      "phone": "0335 401 23 48"
+    },
+    "5f9e631c-b7f6-4498-979d-91a82ceb0d96": {
+      "title": "Hausnotrufdienst Volkssolidarität Landesverband M-V",
+      "state": "draft",
+      "brief": {
+        "de": "Anbieter für Hausnotruf-Dienste."
+      },
+      "description": {
+        "de": "Sicherheitslösung mit Notruf-Funktion für Senioren."
+      },
+      "address": "Gutenbergstraße 1",
+      "zip": "19061",
+      "city": "Schwerin",
+      "email": "hausnotruf-nord@volkssolidarität.de",
+      "phone": "0385 30 34 73 03"
+    },
+    "445c43b6-d487-4f10-8d29-a0f85ebdb854": {
+      "title": "DRK-Kreisverband Märkisch-Oder-Havel-Spree e. V. – Hausnotruf",
+      "state": "draft",
+      "brief": {
+        "de": "Hausnotruf-Dienst für zuverlässige Hilfe."
+      },
+      "description": {
+        "de": "Bietet Hausnotruf-Systeme für ein sicheres Gefühl in den eigenen vier Wänden."
+      },
+      "address": "Bergstraße 16",
+      "zip": "15890",
+      "city": "Eisenhüttenstadt",
+      "email": "hausnotruf@drk-mohs.de",
+      "phone": "03364 41 34 00"
+    },
+    "c1c85a6b-9605-4082-8ada-5a70e6c2cf00": {
+      "title": "Frankfurter Tafel-Domizil „Offene Tür\"",
+      "state": "draft",
+      "brief": {
+        "de": "Soziale Initiative der Arbeitsloseninitiative für Bedürftige."
+      },
+      "description": {
+        "de": "Wohnortnahe soziale Einrichtung zur Unterstützung von Menschen in schwierigen Lebenslagen."
+      },
+      "address": "Am Topfmarkt 1",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "ase@arbeitloseninitiative-ffo.de",
+      "phone": "0335 680 29 81"
+    },
+    "8fbd6235-fb4c-4d34-aa41-87b03111a042": {
+      "title": "Bürgerladen – Sozialkaufhaus der Arbeitsloseninitiative",
+      "state": "draft",
+      "brief": {
+        "de": "Sozialkaufhaus mit Bekleidung, Haushaltswaren und Reparaturdiensten."
+      },
+      "description": {
+        "de": "Bietet gut erhaltene Kleidung, Möbel und Haushaltsgeräte für Berechtigte an und führt Haushaltsauflösungen durch."
+      },
+      "address": "Fürstenwalder Straße 48/49",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "ase@arbeitloseninitiative-ffo.de",
+      "phone": "0335 53 58 74"
+    },
+    "0ac8e58a-1a9b-4e83-9ad2-9b79147ce0cf": {
+      "title": "Kleiderkammer des DRK-Kreisverbandes",
+      "state": "draft",
+      "brief": {
+        "de": "Kleiderkammer für kostenlose Bekleidung an Hilfesuchende."
+      },
+      "description": {
+        "de": "Sucht und bietet gut erhaltene Kleidung, die hilfesuchenden Bürgern übergeben wird."
+      },
+      "address": "Briesener Straße 1",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "phone": "0335 401 36 34 24"
+    },
+    "a8b5f3cc-a505-4db3-a252-d092e473d8d0": {
+      "title": "CARIsatt-Laden",
+      "state": "draft",
+      "brief": {
+        "de": "Günstiger Einkaufsladen für Menschen mit geringem Einkommen."
+      },
+      "description": {
+        "de": "Bietet Waren des täglichen Bedarfs zu deutlich reduzierten Preisen für Personen mit entsprechendem Nachweis an."
+      },
+      "address": "Leipziger Straße 39",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "CARIsatt@caritas-berlin.de",
+      "phone": "0335 56 54-117"
+    },
+    "f982141a-e065-4751-aaa6-ec73d1a8ba0f": {
+      "title": "Helping Hands Blaue Brücke e. V.",
+      "state": "draft",
+      "brief": {
+        "de": "Gemeinnütziger Verein zur Unterstützung von Menschen in schwierigen Lebenslagen."
+      },
+      "description": {
+        "de": "Bietet vielfältige Hilfe für Menschen mit und ohne Fluchtgeschichte unabhängig von Herkunft oder Status."
+      },
+      "address": "Karl-Ritter-Platz 6",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "info@blauebruecke.org",
+      "phone": "0335 66 59 09 39"
+    },
+    "2779f4ce-92c8-4530-b1ad-5964b7a9c618": {
+      "title": "Schuldner- und Insolvenzberatung (Arbeitsloseninitiative)",
+      "state": "draft",
+      "brief": {
+        "de": "Vertrauliche und kostenlose Schuldnerberatung."
+      },
+      "description": {
+        "de": "Hilfsangebot für Einzelpersonen oder Familien mit finanziellen Problemen und Schulden."
+      },
+      "address": "Carthausplatz 1",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "sb@arbeitsloseninitiative-ffo.de",
+      "phone": "0335 680 30 29"
+    },
+    "26334541-f14f-4798-83d3-7b9303fcf1aa": {
+      "title": "Schuldner- und Insolvenzberatung (Wichern Diakonie)",
+      "state": "draft",
+      "brief": {
+        "de": "Beratung bei finanziellen Schwierigkeiten und Schulden."
+      },
+      "description": {
+        "de": "Unterstützung und Lösungsfindung bei Schulden und drohender Insolvenz."
+      },
+      "address": "Marktplatz 4",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "phone": "0335 564 58 46"
+    },
+    "a5be521e-13d6-4cac-a58b-a03c9903a340": {
+      "title": "Fachstelle SUCHT – Land in Sicht – PROWO gGmbH",
+      "state": "draft",
+      "brief": {
+        "de": "Prävention, Beratung und Behandlung bei Suchterkrankungen."
+      },
+      "description": {
+        "de": "Hilfe bei Alkohol-, Drogen-, Glücksspiel- und Medienkonsum."
+      },
+      "address": "Holzmarkt 4 a",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "info@lis-prowo.de",
+      "phone": "0335 680 27 35"
+    },
+    "184f87ac-4c52-4df0-8af1-5c2d6b8ddeca": {
+      "title": "Pflegestützpunkt Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Neutrale und kostenfreie Beratungsstelle bei Pflegebedürftigkeit."
+      },
+      "description": {
+        "de": "Bietet Information, Sozial- und Pflegeberatung, Orientierung zu gesetzlichen Ansprüchen und Hilfe bei Anträgen."
+      },
+      "address": "Logenstraße 1 (Erdgeschoss)",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "frankfurt-oder@pflegestuetzpunkte-brandenburg.de",
+      "phone": "0335 50 09 69 64"
+    },
+    "a92271be-ea89-4fb6-b7fe-e33306aa237f": {
+      "title": "Wohnberatung des Pflegestützpunktes Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Kostenlose Wohnberatung für barrierefreies und sicheres Wohnen im Alter."
+      },
+      "description": {
+        "de": "Berät zu Wohnraumanpassung, Umbauten, Hilfsmitteln und Finanzierungsmöglichkeiten."
+      },
+      "address": "Logenstraße 1 (2. Etage)",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "frankfurt-oder@pflegestuetzpunkte-brandenburg.de",
+      "phone": "0335 43 30 33 98"
+    },
+    "98f45736-07db-4b61-90ad-83a190a940ed": {
+      "title": "Verbraucherzentrale Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Fachliche Beratung zu Fragen des Verbraucherschutzes."
+      },
+      "description": {
+        "de": "Hilft bei Problemen mit Versicherungen, Handwerkern, Verträgen oder im Reiserecht."
+      },
+      "address": "Karl-Marx-Straße 179/180",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "info@vzb.de",
+      "phone": "0331 98 22 99 95"
+    },
+    "89de4416-62cd-4be7-aa6f-679d2af6571c": {
+      "title": "Mieterverein VIADRINA Frankfurt (Oder) und Umgebung e. V.",
+      "state": "draft",
+      "brief": {
+        "de": "Beratung und Interessenvertretung bei Mietproblemen."
+      },
+      "description": {
+        "de": "Unterstützt bei Fragen zu Mietvertrag, Mieterhöhung, Betriebskostenabrechnung und Kündigungen."
+      },
+      "address": "Halbe Stadt 21",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "info@mieterverein-viadrina.de",
+      "phone": "0335 685 02 60"
+    },
+    "b9270ff8-1f67-445f-b102-1b8227c5332c": {
+      "title": "Opferberatung Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Hilfe und Unterstützung für Opfer von Straftaten."
+      },
+      "description": {
+        "de": "Betreuungs- und Beratungsangebot für Menschen, die Opfer von Gewalt oder Diebstahl wurden."
+      },
+      "address": "Carthausplatz 1",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "frankfurt@opferhilfe-brandenburg.de",
+      "phone": "0335 665 92 67"
+    },
+    "41849c5e-f953-4781-b127-3b4abefb661d": {
+      "title": "Weisser Ring Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Opferschutzorganisation für Kriminalitätsopfer."
+      },
+      "description": {
+        "de": "Unterstützt Betroffene von Straftaten und leistet Hilfe in schweren Lebenslagen."
+      },
+      "city": "Frankfurt (Oder)",
+      "email": "ffo@mail.weisser-ring.de",
+      "mobile": "0151 551 648 20"
+    },
+    "56203574-5ccf-4be1-98a7-42c950e4332d": {
+      "title": "Deutsche Rentenversicherung Berlin-Brandenburg",
+      "state": "draft",
+      "brief": {
+        "de": "Fachliche Rentenberatung für die Altersicherung."
+      },
+      "description": {
+        "de": "Beantwortet alle Fragen rund um das Thema Rente und Altersvorsorge."
+      },
+      "address": "Bertha-von-Suttner-Straße 1",
+      "zip": "15236",
+      "city": "Frankfurt (Oder)",
+      "email": "post@drv-berlin-brandenburg.de",
+      "phone": "0335 50 09 00"
+    },
+    "93df2e64-2188-44a3-994b-3619d267a816": {
+      "title": "Allgemeine Sozialberatung des Caritasverbandes",
+      "state": "draft",
+      "brief": {
+        "de": "Sozialberatung bei Behördenproblemen und in sozialrechtlichen Fragen."
+      },
+      "description": {
+        "de": "Berät bei Schwierigkeiten mit Ämtern, Bürgergeld, Wohngeld oder Grundsicherung."
+      },
+      "address": "Leipziger Straße 53/54",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "asb-frankfurt-oder@caritas-brandenburg.de",
+      "phone": "0335 565 41 72"
+    },
+    "7399b673-ce3f-4a7e-a7d4-64187e2942f7": {
+      "title": "BeratungsZentrum der Lebenshilfe Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Unabhängige und inklusive Beratung zu Alltag, Familie und Wohnen."
+      },
+      "description": {
+        "de": "Bietet Unterstützung für Menschen mit Behinderung und deren Angehörige, inklusive Wohnberatung und Leichter Sprache."
+      },
+      "address": "Große Scharrnstraße 63",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "beratungszentrum@lebenshilfe-ffo.de",
+      "phone": "0335 28 05 10-28"
+    },
+    "e15ea1db-717c-4880-8786-4bc6a94ba7a8": {
+      "title": "EUTB (Ergänzende unabhängige Teilhabeberatung)",
+      "state": "draft",
+      "brief": {
+        "de": "Spezielle Teilhabeberatung mit Schwerpunkt Hörschädigung und Krisen."
+      },
+      "description": {
+        "de": "Berät zu Hörschädigungen, Hilfsmitteln, seelischen Krisen, persönlichem Budget und mehrfachen Beeinträchtigungen."
+      },
+      "address": "Franz-Mehring-Straße 20",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "eutb-bb@schwerhoerigen-netz.de",
+      "phone": "0335 13 09 92 94"
+    },
+    "f683e1a2-30b6-4bb0-92d3-cfb462e4c95a": {
+      "title": "Frauenberatungsstelle / Häusliche Gewalt (Johanniter)",
+      "state": "draft",
+      "brief": {
+        "de": "Schutz und anonyme Beratung für von Gewalt betroffene Frauen."
+      },
+      "description": {
+        "de": "Bietet Schutz durch Unterkunft in einer Zufluchtsstätte sowie anonyme und vertrauliche Krisenberatung rund um die Uhr."
+      },
+      "address": "Heinrich-Hildebrand-Straße 20 b",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "frauenhaus-frankfurt.odls@johanniter.de",
+      "phone": "0335 401 23-300"
+    },
+    "e3f466cf-5de3-4812-918f-4fca6c1cda52": {
+      "title": "Gleichstellungs- und Behindertenbeauftragte der Stadt",
+      "state": "draft",
+      "brief": {
+        "de": "Städtische Beauftragte für Gleichstellung und Belange von Menschen mit Behinderung."
+      },
+      "description": {
+        "de": "Ansprechpartner im Rathaus für Fragen zur Gleichstellung und Barrierefreiheit."
+      },
+      "address": "Marktplatz 1",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "gleichstellung@frankfurt-oder.de",
+      "phone": "0335 552 13 40"
+    },
+    "3b39f89f-1532-42f7-b83d-6eae68dbeff0": {
+      "title": "Kommunales Integrationszentrum",
+      "state": "draft",
+      "brief": {
+        "de": "Beratungszentrum für Zugewanderte und Menschen mit Migrationshintergrund."
+      },
+      "description": {
+        "de": "Hilft bei der Integration in Bildung und Arbeit, koordiniert Sprachkurse und vermittelt Sprachmittler."
+      },
+      "address": "Heinrich-von-Stephan-Straße 2",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "info-ki@frankfurt-oder.de",
+      "phone": "0335 552 51 80"
+    },
+    "867c982e-3869-444e-9ff7-c308583b3d87": {
+      "title": "Kontakt- und Beratungsstelle (KBS)",
+      "state": "draft",
+      "brief": {
+        "de": "Anlaufstelle für Menschen mit psychischen oder Abhängigkeitserkrankungen."
+      },
+      "description": {
+        "de": "Informiert über Hilfsangebote der Stadt und berät zu sozialrechtlichen Fragen."
+      },
+      "address": "Franz-Mehring-Straße 20",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "kraucik@wichern-ffo.de",
+      "phone": "0335 50 09 69 16"
+    },
+    "0b6c856f-65d1-4911-b8ee-0b977ce8f2fb": {
+      "title": "Miteinander Wohnen e. V.",
+      "state": "draft",
+      "brief": {
+        "de": "Beratung und Unterstützung zu Wohnen, Nachbarschaft und Obdachlosigkeit."
+      },
+      "description": {
+        "de": "Bietet kostenlose Lernhilfe für Schüler, Hilfe bei drohender Obdachlosigkeit durch Verschuldung und Quartiersarbeit."
+      },
+      "address": "Pablo-Neruda-Block 3",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "vorstand@miteinander-wohnen-ffo.de",
+      "phone": "0335 43 30 23 19"
+    },
+    "ea05b868-1ea1-4c3d-9898-1a9a3fba8f1b": {
+      "title": "Peitzer Acht",
+      "state": "draft",
+      "brief": {
+        "de": "Beratungs- und Begegnungsstätte für Menschen mit Lernschwierigkeiten."
+      },
+      "description": {
+        "de": "Berät zu individuellen Lebensplanungen, verschiedenen Wohnformen und sozialrechtlichen Belangen."
+      },
+      "address": "Franz-Mehring-Straße 20",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "peitzeracht@wichern-ffo.de",
+      "phone": "0335 401 30 20"
+    },
+    "7807ab75-2351-46cb-80cb-06014918d26a": {
+      "title": "Pfarrbüro der Katholischen Gemeinde Heilig Kreuz",
+      "state": "draft",
+      "brief": {
+        "de": "Seelsorge und kirchliche Auskünfte."
+      },
+      "description": {
+        "de": "Erteilt Auskünfte zu Seelsorgegesprächen und kirchlichen Angeboten."
+      },
+      "address": "Franz-Mehring-Straße 4",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "sekretariat@heilig-kreuz-ffo.de",
+      "phone": "0335 40 08 99 00"
+    },
+    "8e94d46d-cd7b-4a4c-818d-1232ebc04bb4": {
+      "title": "Gemeindebüro der Evangelischen Kirchengemeinde",
+      "state": "draft",
+      "brief": {
+        "de": "Evangelisches Gemeindebüro für Seelsorge und Anfragen."
+      },
+      "description": {
+        "de": "Ansprechpartner für Gemeindeleben und Seelsorgeangebote."
+      },
+      "address": "Gertraudenplatz 6",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "buero@evangelische-kirche-ffo.de",
+      "phone": "0335 387 28 13"
+    },
+    "21df7177-bbee-4561-a802-c33228c258cb": {
+      "title": "Ambulanter Pflegedienst – Lebenshilfe Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Medizinische Pflege, Beratung und Verhinderungspflege zu Hause."
+      },
+      "description": {
+        "de": "Erleichtert den häuslichen Alltag durch professionelle pflegerische Unterstützung."
+      },
+      "address": "Lindenstraße 41",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "ambulanter.pflegedienst@lebenshilfe-ffo.de",
+      "phone": "0335 28 05 10 33"
+    },
+    "8f285163-a6f2-4c4a-93f9-8740cdfe05ac": {
+      "title": "Hauskrankenpflege HERZENSSACHE GmbH",
+      "state": "draft",
+      "brief": {
+        "de": "Ambulanter Pflegedienst für häusliche Krankenpflege."
+      },
+      "description": {
+        "de": "Versorgt pflegebedürftige Menschen im häuslichen Bereich."
+      },
+      "address": "Bardelebenstraße 1",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "herzenssache.kroll@t-online.de",
+      "phone": "0335 52 11 99 43"
+    },
+    "e1a6c115-1001-4303-b7a7-dca20741b6a9": {
+      "title": "Häusliche Krankenpflege Annette Huth",
+      "state": "draft",
+      "brief": {
+        "de": "Ambulanter Pflegedienst in Frankfurt (Oder)."
+      },
+      "description": {
+        "de": "Zuverlässige Pflege und Unterstützung zu Hause."
+      },
+      "address": "Gubener Straße 31 f",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "annette.huth@gmx.de",
+      "phone": "0335 50 08 86 13"
+    },
+    "8a159490-ec38-448e-8efd-d0cdf94bcd00": {
+      "title": "OderHelden Ambulanter Pflegedienst",
+      "state": "draft",
+      "brief": {
+        "de": "Ambulante Pflegeleistungen für Senioren."
+      },
+      "description": {
+        "de": "Unterstützt im Alltag und bei der medizinischen Versorgung zu Hause."
+      },
+      "address": "Uferstraße 3",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "pflegedienst@oder-helden.de",
+      "phone": "0335 55 40 76 98"
+    },
+    "e57a192c-7316-451c-865d-a70aab13aebd": {
+      "title": "PflegeTeam Blau",
+      "state": "draft",
+      "brief": {
+        "de": "Ambulanter Pflegedienst für häusliche Versorgung."
+      },
+      "description": {
+        "de": "Pflege und Betreuung im häuslichen Umfeld."
+      },
+      "address": "Heilbronner Straße 30",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "ffo@pflege-teamblau.de",
+      "mobile": "0173 348 35 67"
+    },
+    "c78d54c6-4665-4466-9a74-85480479f0a3": {
+      "title": "ASB Sozialstation Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Ambulanter Pflegedienst des ASB."
+      },
+      "description": {
+        "de": "Bietet häusliche Krankenpflege, Grundpflege und Betreuungsleistungen."
+      },
+      "address": "Zehmeplatz 12",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "sozialstation-ffo@asb-ostbrandenburg.de",
+      "phone": "0335 38 72 84 21"
+    },
+    "2143387f-da47-4534-8fdb-df4a5729e42d": {
+      "title": "Sozialstation der Volkssolidarität Frankfurt (Oder) e. V.",
+      "state": "draft",
+      "brief": {
+        "de": "Ambulanter Pflegedienst der Volkssolidarität."
+      },
+      "description": {
+        "de": "Leistet häusliche Krankenpflege, Grund- und Behandlungspflege sowie hauswirtschaftliche Hilfe."
+      },
+      "address": "Logenstraße 1",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "sst-ffo@volkssolidaritaet.de",
+      "phone": "0335 680 20 68"
+    },
+    "bc5f50bc-2e65-44de-9907-c9c064bcddcf": {
+      "title": "ALBATROS Ambulanter Pflegedienst GmbH",
+      "state": "draft",
+      "brief": {
+        "de": "Ambulanter Pflegedienst in Frankfurt (Oder)."
+      },
+      "description": {
+        "de": "Pflege und Betreuung direkt zu Hause."
+      },
+      "address": "Fürstenberger Straße 28",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "albatros.frankfurt@freenet.de",
+      "phone": "0335 284 78 05"
+    },
+    "8fa619d6-b3f9-4895-9c1f-64a4bbe3c94c": {
+      "title": "Ambulanter Pflegedienst Alpha Ffo GmbH",
+      "state": "draft",
+      "brief": {
+        "de": "Pflegedienst für häusliche Versorgung."
+      },
+      "description": {
+        "de": "Ambulante Pflegeleistungen und Unterstützung für Pflegebedürftige."
+      },
+      "address": "Dresdener Straße 3",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "alphaffo@freenet.de",
+      "phone": "0335 50 09 77 48"
+    },
+    "9de74900-b119-47a3-800c-270c1c810a41": {
+      "title": "Häuslicher Pflegedienst Tilgner",
+      "state": "draft",
+      "brief": {
+        "de": "Häuslicher Pflegedienst für Senioren."
+      },
+      "description": {
+        "de": "Ambulante Pflege im Wohngebiet."
+      },
+      "address": "Ebertusstraße 14",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "konstanze.tilgner@gmail.com",
+      "phone": "0335 86 92 47 83"
+    },
+    "b70d8c00-c9b3-42fd-8f80-227fd3a1d4f1": {
+      "title": "Die Pflegeengel Pflegedienst Schönherr",
+      "state": "draft",
+      "brief": {
+        "de": "Ambulanter Pflegedienst Schönherr."
+      },
+      "description": {
+        "de": "Häusliche Krankenpflege und Betreuung."
+      },
+      "address": "Stendaler Straße 1",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "info@diepflegeengel-ffo.de",
+      "phone": "0335 40 07 18 93"
+    },
+    "b4b0d179-2da0-4e48-84fb-9a25c138a2c6": {
+      "title": "Krankenpflege Kolax – PFLEGE ZU HAUSE",
+      "state": "draft",
+      "brief": {
+        "de": "Häusliche Krankenpflege Kolax."
+      },
+      "description": {
+        "de": "Zuverlässige Pflege im vertrauten Zuhause."
+      },
+      "address": "Rathenaustraße 16",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "kolax@t-online.de",
+      "phone": "0335 400 79 80"
+    },
+    "f49bdafc-f0e8-4535-9982-9813b8b9dfbd": {
+      "title": "Pflegeteam Gallus UG",
+      "state": "draft",
+      "brief": {
+        "de": "Ambulanter Pflegedienst Gallus."
+      },
+      "description": {
+        "de": "Pflege und Hilfen im Alltag für ältere Menschen."
+      },
+      "address": "Josef-Gesing-Straße 10",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "pflegeteam-gallus@web.de",
+      "phone": "0335 40 11 93 00"
+    },
+    "da457a00-c1e0-4cc5-847c-658ccba7df93": {
+      "title": "Ambulanter Pflegedienst Silvia Klementz",
+      "state": "draft",
+      "brief": {
+        "de": "Ambulanter Pflegedienst im Ortsteil."
+      },
+      "description": {
+        "de": "Häusliche Pflege und Betreuungsleistungen."
+      },
+      "address": "Stachelbeerweg 6",
+      "zip": "15236",
+      "city": "Frankfurt (Oder)",
+      "email": "klementz.mielke@t-online.de",
+      "phone": "0335 521 27 27"
+    },
+    "e341140f-3953-41b4-afb2-05ca7622c43b": {
+      "title": "AWO CARE Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Ambulanter Pflegedienst der AWO."
+      },
+      "description": {
+        "de": "Pflege und Versorgung im häuslichen Bereich."
+      },
+      "address": "Sonnenallee 3",
+      "zip": "15236",
+      "city": "Frankfurt (Oder)",
+      "email": "ambulant@awo-kv-ff.de",
+      "phone": "0335 521 17 90"
+    },
+    "5e5d8227-a8b7-4b37-ac90-c854da72a52e": {
+      "title": "Hauskrankenpflege Sonnenschein",
+      "state": "draft",
+      "brief": {
+        "de": "Ambulanter Pflegedienst Sonnenschein."
+      },
+      "description": {
+        "de": "Häusliche Krankenpflege und Alltagshilfe."
+      },
+      "address": "Puschkinstraße 1",
+      "zip": "15236",
+      "city": "Frankfurt (Oder)",
+      "email": "info@sonnenschein-ffo.de",
+      "phone": "0335 50 08 01 00"
+    },
+    "d1c7f8c8-cc74-4a19-9380-bc5ba1d864e4": {
+      "title": "Johanniter – Ambulante Kinderkrankenpflege",
+      "state": "draft",
+      "brief": {
+        "de": "Spezialisierte ambulante Pflege."
+      },
+      "description": {
+        "de": "Ambulante Versorgung und Begleitung."
+      },
+      "address": "Eisenbahnstraße 9 – 11",
+      "zip": "15517",
+      "city": "Fürstenwalde/Spree",
+      "mobile": "0173 619 37 64"
+    },
+    "766d3304-94b8-45ba-913b-14a973eff50b": {
+      "title": "PALLIATIV TEAM FRANKFURT (ODER)",
+      "state": "draft",
+      "brief": {
+        "de": "Spezialisierte ambulante Palliativ-Versorgung (SAPV)."
+      },
+      "description": {
+        "de": "Medizinische Versorgung schwersterkrankter Patienten in ihrer vertrauten Umgebung während der letzten Lebensphase."
+      },
+      "address": "Lessingstraße 17",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "info@palliativteam-ffo.de",
+      "phone": "0335 86 92 44 95"
+    },
+    "495b2366-9a00-46be-8097-aa9871408632": {
+      "title": "ASB – Vitalis Tagespflege",
+      "state": "draft",
+      "brief": {
+        "de": "Teilstationäre Tagespflegeeinrichtung des ASB."
+      },
+      "description": {
+        "de": "Betreuung tagsüber für pflegebedürftige Menschen bei Unterbringung im eigenen Zuhause nachts."
+      },
+      "address": "Heilbronner Straße 24",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "tagespflege@asb-ostbrandenburg.de",
+      "phone": "0335 401 36 82 14"
+    },
+    "912ed53e-d28d-4630-ad5b-f1bffef88081": {
+      "title": "Tagespflege „Herzenssache im Palais\"",
+      "state": "draft",
+      "brief": {
+        "de": "Tagespflege für Senioren."
+      },
+      "description": {
+        "de": "Teilstationäre Pflege zur Entlastung von Angehörigen und Betreuung tagsüber."
+      },
+      "address": "Rosa-Luxemburg-Straße 42",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "info.herzenssache-tagespflege@t-online.de",
+      "phone": "0335 50 09 66 88"
+    },
+    "5051b0ba-93c8-4240-9f39-2838049a32d4": {
+      "title": "Tagespflege Sonnenschein",
+      "state": "draft",
+      "brief": {
+        "de": "Teilstationäre Betreuung für Senioren."
+      },
+      "description": {
+        "de": "Tagespflege für pflegebedürftige Menschen."
+      },
+      "address": "Rosengasse 3",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "tagespflege@sonnenschein-ffo.de",
+      "phone": "0335 55 31 17 41"
+    },
+    "ad306fd4-aa00-41ec-9ff4-b6438f1f55a1": {
+      "title": "Tagespflege Luise",
+      "state": "draft",
+      "brief": {
+        "de": "Tagespflegeeinrichtung Luise."
+      },
+      "description": {
+        "de": "Tagsüber betreut leben im Kreis anderer."
+      },
+      "address": "August-Bebel-Straße 4",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "info@luise-wohlfuehlen.de",
+      "phone": "0335 55 40 88 05"
+    },
+    "2b9a37a1-5790-4da6-b884-dfae7aabebfc": {
+      "title": "Tagespflege Paulinenhof",
+      "state": "draft",
+      "brief": {
+        "de": "Teilstationäre Tagespflege Paulinenhof."
+      },
+      "description": {
+        "de": "Betreuung tagsüber für pflegebedürftige Senioren."
+      },
+      "address": "August-Bebel-Straße 11",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "fpg-ffo@web.de",
+      "phone": "0335 86 92 23 88"
+    },
+    "2943adc5-42bd-44bb-86bc-36821abf3cdd": {
+      "title": "Tagespflege „Haus Lena\"",
+      "state": "draft",
+      "brief": {
+        "de": "Tagespflege in Markendorf."
+      },
+      "description": {
+        "de": "Teilstationäre Tagespflege für Senioren."
+      },
+      "address": "Dorfplatz 4",
+      "zip": "15236",
+      "city": "Frankfurt (Oder)",
+      "phone": "0335 52 11 58 20"
+    },
+    "80d0ef94-7c7c-42a8-b3cd-7c57d4da3a89": {
+      "title": "Seniorenhaus „Neuberesinchen\"",
+      "state": "draft",
+      "brief": {
+        "de": "Seniorenhaus mit Tagespflege und vollstationärer Pflege."
+      },
+      "description": {
+        "de": "Einrichtung für Pflege und Betreuung im Stadtteil Neuberesinchen."
+      },
+      "address": "Jungclaussenweg 5",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "info@pro-aura.de",
+      "phone": "0335 556 90"
+    },
+    "8cd3f4a8-63a4-41b3-b33a-9c3ce1e6c59e": {
+      "title": "Evangelisches Seniorenzentrum „Siegfried Ringhandt\"",
+      "state": "draft",
+      "brief": {
+        "de": "Evangelisches Seniorenzentrum mit stationärer Pflege."
+      },
+      "description": {
+        "de": "Pflege und Betreuung im Seniorendomizil."
+      },
+      "address": "Seelower Kehre 3",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "esz-frankfurt-sr@lafim.de",
+      "phone": "0335 28 47 40"
+    },
+    "e2fbb50c-d03b-4a5d-b0a8-7d76f539cde5": {
+      "title": "AWO Seniorenzentrum „Am Südring\"",
+      "state": "draft",
+      "brief": {
+        "de": "AWO Seniorenzentrum mit vollstationärer Pflege."
+      },
+      "description": {
+        "de": "Stationäre Pflegeeinrichtung für ältere Menschen."
+      },
+      "address": "Konstantin-Ziolkowski-Allee 49",
+      "zip": "15236",
+      "city": "Frankfurt (Oder)",
+      "email": "pdl_am-suedring@awo-kv-ff.de",
+      "phone": "0335 400 81 00"
+    },
+    "1c2922f7-082c-4b0f-badd-c3479fd1340f": {
+      "title": "Evangelisches Seniorenzentrum Frankfurt (Oder) „Marthaheim\"",
+      "state": "draft",
+      "brief": {
+        "de": "Stationäre Pflegeeinrichtung und Anbieter für Verhinderungspflege."
+      },
+      "description": {
+        "de": "Bietet vollstationäre Pflege sowie Verhinderungspflege zur Entlastung von Angehörigen."
+      },
+      "address": "Bergstraße 175",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "esz-frankfurt-mh@lafim.de",
+      "phone": "0335 40 16 90"
+    },
+    "600169a6-d8f1-4238-90b6-2ce99707102d": {
+      "title": "Familienentlastender Dienst der Lebenshilfe",
+      "state": "draft",
+      "brief": {
+        "de": "Unterstützung und Verhinderungspflege durch die Lebenshilfe."
+      },
+      "description": {
+        "de": "Bietet Betreuung, Assistenz und Verhinderungspflege zur Entlastung pflegender Angehöriger."
+      },
+      "address": "Hansastraße 3",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "fed@lebenshilfe-ffo.de",
+      "phone": "0335 28 05 10 31"
+    },
+    "30deaa2d-2b99-427c-8687-e36f074454fb": {
+      "title": "Haus am Schwänchenteich",
+      "state": "draft",
+      "brief": {
+        "de": "Einrichtung für Verhinderungspflege und ambulant betreute Wohngemeinschaften."
+      },
+      "description": {
+        "de": "Bietet Verhinderungspflege und ambulant betreute Wohngemeinschaften an."
+      },
+      "address": "Puschkinstraße 1 – 2",
+      "zip": "15236",
+      "city": "Frankfurt (Oder)",
+      "email": "schwaenchenteich@sonnenschein-ffo.de",
+      "phone": "0335 43 30 28 01"
+    },
+    "552c0158-0715-450f-b8e4-82eae21a7c11": {
+      "title": "Seniorenwohnanlage „Haus Lena\"",
+      "state": "draft",
+      "brief": {
+        "de": "Anbieter für Verhinderungspflege und Demenz-WG."
+      },
+      "description": {
+        "de": "Wohnanlage mit Angeboten für Verhinderungspflege und Demenzkranke."
+      },
+      "address": "Dorfplatz 4",
+      "zip": "15236",
+      "city": "Frankfurt (Oder)",
+      "email": "klementz.mielke@t-online.de",
+      "phone": "0335 521 27 27"
+    },
+    "ecf198a3-e4ca-4988-a963-3be927478787": {
+      "title": "Alloheim Senioren-Residenz „An der Lehmgasse\"",
+      "state": "draft",
+      "brief": {
+        "de": "Seniorenresidenz mit Kurzzeitpflege und stationärer Pflege."
+      },
+      "description": {
+        "de": "Bietet vollstationäre Pflege, Kurzzeitpflege und Betreutes Wohnen an."
+      },
+      "address": "Walter-Korsing-Straße 16",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "frankfurt-oder@alloheim.de",
+      "phone": "0335 52 10 10"
+    },
+    "b4bb5c80-b98e-4d15-af90-fbe796c292af": {
+      "title": "ASB Seniorenheim Frankfurt (Oder) gGmbH Haus „Karl Marx\"",
+      "state": "draft",
+      "brief": {
+        "de": "Seniorenheim mit Kurzzeit- und Langzeitpflege."
+      },
+      "description": {
+        "de": "Bietet Kurzzeitpflege und vollstationäre Pflegeeinrichtungen."
+      },
+      "address": "Gubener Straße 2",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "seniorenheim@asb-ostbrandenburg.de",
+      "phone": "0335 401 28 90"
+    },
+    "575c42be-abb3-49a2-a50e-a6c8cba1e2ea": {
+      "title": "Bestattungshaus Rost & Rost",
+      "state": "draft",
+      "brief": {
+        "de": "Bestattungsinstitut mit Bestattungsvorsorge und Trauerbegleitung."
+      },
+      "description": {
+        "de": "Kompetenter Ansprechpartner für Bestattungen, Bestattungsvorsorge und barrierefreien Abschiedsbereich."
+      },
+      "address": "Leipziger Straße 61",
+      "zip": "15236",
+      "city": "Frankfurt (Oder)",
+      "phone": "0335 868 97 97"
+    },
+    "95c3702e-c8f1-46ff-ae9e-2bf3d61e61cd": {
+      "title": "Ehrenamtlicher Hospizdienst der Wichern-Diakonie",
+      "state": "draft",
+      "brief": {
+        "de": "Ehrenamtliche Begleitung sterbender Menschen und ihrer Angehörigen."
+      },
+      "description": {
+        "de": "Begleitung von Sterbenden in häuslicher Umgebung, Entlastung von Angehörigen und Trauerbegleitung."
+      },
+      "address": "Lienaustraße 1",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "mogschan@wichern-diakonie.de",
+      "phone": "0335 28 39 63 90"
+    },
+    "e0a4cd9a-7e16-42a8-9ca3-c565876433f4": {
+      "title": "Wohnungswirtschaft Frankfurt (Oder) GmbH",
+      "state": "draft",
+      "brief": {
+        "de": "Wohnungsunternehmen mit Beratung zur Wohnraumanpassung."
+      },
+      "description": {
+        "de": "Bietet Informationen und Wohnungen für Senioren an."
+      },
+      "address": "Große Oderstraße 25",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "kontakt@wowi-ffo.de",
+      "phone": "0335 401 40 14"
+    },
+    "fdf557ec-a3c3-4d37-978c-352c8fe9b182": {
+      "title": "Wohnungsbaugenossenschaft Frankfurt (Oder) eG",
+      "state": "draft",
+      "brief": {
+        "de": "Wohnungsgenossenschaft für seniorengerechtes Wohnen."
+      },
+      "description": {
+        "de": "Ansprechpartner für Wohnungsangebote und Anpassungsmaßnahmen."
+      },
+      "address": "Sophienstraße 40",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "wohnen@wohnbau-frankfurt.de",
+      "phone": "0335 683 05 99"
+    },
+    "f748e2fb-52ba-45bf-9820-475fc0bae9b7": {
+      "title": "WoGe Süd e. G. Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Wohnungsgenossenschaft im Süden der Stadt."
+      },
+      "description": {
+        "de": "Bietet Wohnraum und Beratung für Mitglieder."
+      },
+      "address": "Martin-Opitz-Straße 7",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "info@wogesued.de",
+      "phone": "0335 566 00 20"
+    },
+    "be7b1768-b050-4a1f-bbfd-91036ca380af": {
+      "title": "Diakonissen Haus Teltow Lutherstift Frankfurt (Oder)",
+      "state": "draft",
+      "brief": {
+        "de": "Klinik für Geriatrie und medizinische Versorgung."
+      },
+      "description": {
+        "de": "Klinik für Geriatrie mit Frührehabilitation, Palliative Medizin und Tagesklinik."
+      },
+      "address": "Heinrich-Hildebrand-Straße 22",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "phone": "0335 5542-0"
+    },
+    "f02a72fd-7950-4910-abc2-547f02425fc5": {
+      "title": "ASB Regionalverband Ostbrandenburg e. V. Betreutes Wohnen",
+      "state": "draft",
+      "brief": {
+        "de": "Betreutes Wohnen an verschiedenen Standorten des ASB."
+      },
+      "description": {
+        "de": "Wohnen mit Service und Unterstützung in Seniorenheimen und Residenzen des ASB."
+      },
+      "city": "Frankfurt (Oder)",
+      "email": "betreutes-wohnen@asb-ostbrandenburg.de",
+      "phone": "0335 401 36 82 11"
+    },
+    "c12bb373-9dcf-409b-a15e-5a43fb7c511d": {
+      "title": "Betreutes Wohnen im „Haus Johanna\"",
+      "state": "draft",
+      "brief": {
+        "de": "Betreutes Wohnen für Senioren."
+      },
+      "description": {
+        "de": "Barrierefreie Wohnungen mit Serviceangeboten."
+      },
+      "address": "Bardelebenstraße 1",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "info.herzenssache@t-online.de",
+      "phone": "0335 52 11 99 43"
+    },
+    "025f7982-eb70-4394-a6e8-e034ea4b075d": {
+      "title": "Betreutes Wohnen – Seniorenresidenz „Am Gertraudenplatz\"",
+      "state": "draft",
+      "brief": {
+        "de": "Seniorenresidenz am Gertraudenplatz."
+      },
+      "description": {
+        "de": "Wohnen im Alter mit Betreuungsangeboten."
+      },
+      "address": "Kellenspring 17/18",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "sekretariat@lebenswert-ffo.de",
+      "phone": "0335 40 14 35 83"
+    },
+    "4da43a50-fdd6-4bd5-a435-fbdb026ef2f3": {
+      "title": "Ev. Diakonissenhaus Berlin Teltow Lehnin Betreutes Wohnen „Elisabeth-Haus\"",
+      "state": "draft",
+      "brief": {
+        "de": "Betreutes Wohnen im Elisabeth-Haus (WBS erforderlich)."
+      },
+      "description": {
+        "de": "Barrierefreies Wohnen mit Serviceleistungen für Inhaber eines Wohnberechtigungsscheins."
+      },
+      "address": "Heinrich-Hildebrand-Straße 22",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "sarah.heidl@diakonissenhaus.de",
+      "phone": "03328 433 587"
+    },
+    "9dc5783b-a73b-4188-86cd-4bc9c533606f": {
+      "title": "Betreutes Wohnen – Seniorenresidenz „Haus am Teich\"",
+      "state": "draft",
+      "brief": {
+        "de": "Seniorenresidenz Haus am Teich."
+      },
+      "description": {
+        "de": "Seniorengerechtes Wohnen mit Betreuungsoptionen."
+      },
+      "address": "Puschkinstraße 13",
+      "zip": "15236",
+      "city": "Frankfurt (Oder)",
+      "email": "sekretariat@lebenswert-ffo.de",
+      "phone": "0335 40 14 35 83"
+    },
+    "10e6f83a-8fcb-4657-b1be-7fb00eb43b87": {
+      "title": "Wichern Diakonie Frankfurt (Oder) e. V. Servicewohnen für Senioren",
+      "state": "draft",
+      "brief": {
+        "de": "Servicewohnen der Wichern Diakonie."
+      },
+      "description": {
+        "de": "Selbstständiges Wohnen mit Serviceangeboten für Senioren."
+      },
+      "address": "Humboldtstraße 20",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "ingojaeschke@wichern-ffo.de",
+      "phone": "0335 555 67 37"
+    },
+    "13ca546b-0c97-43e0-91ed-3f1732e15ba3": {
+      "title": "Wohnpark an der Sonnenallee",
+      "state": "draft",
+      "brief": {
+        "de": "Altersgerechtes Wohnen im Wohnpark an der Sonnenallee."
+      },
+      "description": {
+        "de": "Wohnen für Senioren mit Betreuungsangeboten."
+      },
+      "address": "Sonnenallee 2, 3 – 3 b",
+      "zip": "15236",
+      "city": "Frankfurt (Oder)",
+      "email": "mobil@awo-kv-ff.de",
+      "phone": "0335 400 81 16"
+    },
+    "27ecb6eb-9f36-480b-8c10-a49efe6cf3bc": {
+      "title": "Altersgerechtes Wohnen nah der City (AWO)",
+      "state": "draft",
+      "brief": {
+        "de": "Top-saniertes altersgerechtes Wohnen nah der Innenstadt."
+      },
+      "description": {
+        "de": "Barrierefreie Wohnungen mit Concierge-Dienst und Pflegeanbindung."
+      },
+      "address": "Herbert-Jensch-Straße 104",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "info@awo-bb-ost.de",
+      "phone": "0335 56574910"
+    },
+    "5f0d690a-4bc2-48cc-b251-39eec85eade1": {
+      "title": "Amt für Jugend und Soziales – Wohnungswesen/Wohnungsaufsicht",
+      "state": "draft",
+      "brief": {
+        "de": "Antragstellung und Beratung zum Wohnberechtigungsschein (WBS)."
+      },
+      "description": {
+        "de": "Prüfung des Einkommens und Ausstellung des Wohnberechtigungsscheins für geförderte Sozialwohnungen."
+      },
+      "address": "Logenstraße 8",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "wohnen@frankfurt-oder.de",
+      "phone": "0335 552 51 59"
+    },
+    "06c4e93b-60e2-49ed-ae77-9f70a9b52890": {
+      "title": "Betreute Wohngemeinschaft für Demenzkranke (Sonnenschein)",
+      "state": "draft",
+      "brief": {
+        "de": "Ambulant betreute Wohngemeinschaft für Menschen mit Demenz."
+      },
+      "description": {
+        "de": "Gemeinschaftliches Wohnen mit Rundum-Betreuung und Pflege für Demenzerkrankte."
+      },
+      "address": "Heilbronner Straße 12 – 13",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "info@sonnenschein-ffo.de",
+      "phone": "0335 86 92 43 14"
+    },
+    "1723684b-0f93-4286-baa0-802dd0d83f7e": {
+      "title": "Wohngemeinschaft für Menschen mit Demenz – Haus „Johanna\"",
+      "state": "draft",
+      "brief": {
+        "de": "Demenz-Wohngemeinschaft im Haus Johanna."
+      },
+      "description": {
+        "de": "Wohnen in Gemeinschaft mit pflegerischer Versorgung."
+      },
+      "address": "Bardelebenstraße 1",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "herzenssache.kroll@t-online.de",
+      "phone": "0335 52 11 99 43"
+    },
+    "e6613bf2-20fa-4016-aaff-48c7c817d34d": {
+      "title": "Wohngemeinschaft Gubener Straße",
+      "state": "draft",
+      "brief": {
+        "de": "Wohnen und Pflege in der Gubener Straße."
+      },
+      "description": {
+        "de": "Pflegewohngemeinschaft für unterstützungsbedürftige Menschen."
+      },
+      "address": "Gubener Straße 33",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "sekretariat@lebenswert-ffo.de",
+      "phone": "0335 40 14 35 83"
+    },
+    "fc983f95-c6a8-4637-8770-84567e9d8384": {
+      "title": "Wohngruppe in der Seniorenresidenz „Am Gertraudenplatz\"",
+      "state": "draft",
+      "brief": {
+        "de": "Wohngruppe für Senioren und demenziell Erkrankte."
+      },
+      "description": {
+        "de": "Gemeinschaftliches Wohnen mit Betreuung für Demenzkranke."
+      },
+      "address": "Kellenspring 17/18",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "sekretariat@lebenswert-ffo.de",
+      "phone": "0335 40 14 35 83"
+    },
+    "af43732a-40a1-4673-9510-c8c3e353ce13": {
+      "title": "Evangelisches Diakonissenhaus Altenpflegeheim „Theodor-Fliedner-Haus\"",
+      "state": "draft",
+      "brief": {
+        "de": "Vollstationäres Altenpflegeheim."
+      },
+      "description": {
+        "de": "Stationäre Pflegeeinrichtung für ältere Menschen."
+      },
+      "address": "Heinrich-Hildebrand-Straße 24 b",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "peter.heyse@diakonissenhaus.de",
+      "phone": "0335 554 21 10"
+    },
+    "5aa9c2cb-e4f0-4709-a264-eeaaf21617fd": {
+      "title": "Gemeinnützige Pflege- und Betreuungsgesellschaft Wohn- und Pflegezentrum",
+      "state": "draft",
+      "brief": {
+        "de": "Wohn- und Pflegezentrum mit speziellen Schwerpunkten."
+      },
+      "description": {
+        "de": "Bietet stationäre Pflege mit Schwerpunkten für psychisch veränderte Menschen und Schwerstkörperbehinderte."
+      },
+      "address": "Kommunardenweg 14",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "info@pro-aura.de",
+      "phone": "0335 556 90"
+    },
+    "32de8270-1725-48e5-8959-f5afb5592078": {
+      "title": "ASB Alten- und Pflegeheim Betriebs gGmbH Haus „Abendsonne\"",
+      "state": "draft",
+      "brief": {
+        "de": "Alten- und Pflegeheim Haus Abendsonne."
+      },
+      "description": {
+        "de": "Vollstationäre Pflege und Betreuung."
+      },
+      "address": "Markendorfer Straße 22",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "altenpflegeheim@asb-ostbrandenburg.de",
+      "phone": "0335 40 07 35 00"
+    },
+    "4c1c1364-6a08-4b1a-88c9-f92ceceedccb": {
+      "title": "Wichern-Wohnstätten und Soziale Dienste gGmbH",
+      "state": "draft",
+      "brief": {
+        "de": "Wohnstätten für Menschen mit geistigen Behinderungen oder psychischen Erkrankungen."
+      },
+      "description": {
+        "de": "Besondere Wohnformen an mehreren Standorten mit Betreuung und Assistenz."
+      },
+      "address": "Luisenstraße 21 – 24",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "info@wichern-ffo.de",
+      "phone": "0335 555 67 21"
+    },
+    "1269d230-03eb-4d8b-b965-b3f2bd3b71cc": {
+      "title": "„Hanna-Keller-Haus” – Evangelisches Diakonissenhaus",
+      "state": "draft",
+      "brief": {
+        "de": "Wohnstätte für Menschen mit Behinderungen."
+      },
+      "description": {
+        "de": "Besondere Wohnform mit professioneller Betreuung."
+      },
+      "address": "Amselweg 15",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "kerstin.knieling@diakonissenhaus.de",
+      "phone": "0335 41 45 61 00"
+    },
+    "0ade8075-76a2-4ff1-87c7-d7868a2ca53f": {
+      "title": "Lebenshilfe Frankfurt (Oder) e. V. „Ekkehard Berhold\"",
+      "state": "draft",
+      "brief": {
+        "de": "Wohnstätte für Menschen mit Unterstützungsbedarf."
+      },
+      "description": {
+        "de": "Besondere Wohnform für selbstbestimmtes Leben mit Assistenz."
+      },
+      "address": "Oderhang 15",
+      "zip": "15234",
+      "city": "Frankfurt (Oder)",
+      "email": "wohnstaette-ekkehard.berhold@lebenshilfe-ffo.de",
+      "phone": "0335 28 05 10-90"
+    },
+    "844a1e11-1d2d-472f-a43e-06e168c8f6c6": {
+      "title": "Haus „Arche\"",
+      "state": "draft",
+      "brief": {
+        "de": "Wohnstätte für Menschen mit Abhängigkeitserkrankungen."
+      },
+      "description": {
+        "de": "Wohnstätte auch für Menschen mit psychischen Beeinträchtigungen."
+      },
+      "address": "Lienaustraße 1 a",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "arche@wichern-ffo.de",
+      "phone": "0335 387 17 90"
+    },
+    "54c497fd-a38a-4723-b1ee-f2c2ed4053fe": {
+      "title": "Wohnstätte „Am Arboretum\"",
+      "state": "draft",
+      "brief": {
+        "de": "Wohnstätte für Menschen mit Abhängigkeitserkrankungen."
+      },
+      "description": {
+        "de": "Stationäre Betreuung und Wohnen."
+      },
+      "address": "Am Arboretum 5",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "email": "info@pro-aura.de",
+      "phone": "0335 40 15 28 17"
+    },
+    "a6d9666d-838c-4fa1-aff4-8304cb2bb3e8": {
+      "title": "Landesamt für Soziales und Versorgung – Aufsicht für unterstützende Wohnformen",
+      "state": "draft",
+      "brief": {
+        "de": "Aufsichtsbehörde für stationäre Einrichtungen und sonstige Wohnformen (Heimaufsicht)."
+      },
+      "description": {
+        "de": "Schützt die Interessen und Bedürfnisse pflege- und betreuungsbedürftiger Menschen in Einrichtungen."
+      },
+      "address": "Robert-Havemann-Straße 4",
+      "zip": "15236",
+      "city": "Frankfurt (Oder)",
+      "email": "heimaufsicht@lasv.brandenburg.de",
+      "phone": "0335 558 24 88"
+    },
+    "bbb856d2-9a08-4930-b932-c58ad89b42ff": {
+      "title": "Gesundheitsamt Frankfurt (Oder) – Betreuungsbehörde",
+      "state": "draft",
+      "brief": {
+        "de": "Behörde für Fragen zur rechtlichen Betreuung und Vorsorge."
+      },
+      "description": {
+        "de": "Berät zu Betreuungsverfügungen und Vorsorgevollmachten."
+      },
+      "address": "Logenstraße 6",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "betreuungsbehoerde@frankfurt-oder.de",
+      "phone": "0335 5 52 53 41"
+    },
+    "9d3eb573-5061-48d3-90d2-53a2b89185c1": {
+      "title": "Betreuungsverein Lebenshilfe Brandenburg e. V.",
+      "state": "draft",
+      "brief": {
+        "de": "Betreuungsstelle für rechtliche Betreuung und Vorsorge."
+      },
+      "description": {
+        "de": "Unterstützt bei Fragen zur rechtlichen Betreuung."
+      },
+      "address": "Logenstraße 8",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "ffo@lebenshilfe-betreuungsverein.de",
+      "phone": "0335 28 05 11 11"
+    },
+    "11b50d81-0451-40b1-a457-7b26f7252cd6": {
+      "title": "Stadtverwaltung Frankfurt (Oder) – Amt für Jugend und Soziales (Sozialhilfe)",
+      "state": "draft",
+      "brief": {
+        "de": "Zuständig für Grundsicherung und Sozialhilfeleistungen."
+      },
+      "description": {
+        "de": "Bearbeitet Anträge auf Grundsicherung im Alter und bei Erwerbsminderung sowie Sozialhilfe."
+      },
+      "address": "Logenstraße 8",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "sozialhilfe-ae@frankfurt-oder.de",
+      "phone": "0335 552 50 00"
+    },
+    "29a23553-bbf3-4234-85b1-7322c9377fc8": {
+      "title": "Stadtverwaltung Frankfurt (Oder) – Wohngeldstelle",
+      "state": "draft",
+      "brief": {
+        "de": "Zuständige Stelle für die Antragsstellung von Wohngeld."
+      },
+      "description": {
+        "de": "Nimmt Anträge auf Wohngeld als staatlichen Zuschuss zu den Wohnkosten entgegen."
+      },
+      "address": "Logenstraße 8",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "wohngeld@frankfurt-oder.de",
+      "phone": "0335 552 5000"
+    },
+    "fcbaafb9-8174-429f-a560-45fdde867b62": {
+      "title": "Stadtverwaltung Frankfurt (Oder) – Bürgerservice (Frankfurt-Pass)",
+      "state": "draft",
+      "brief": {
+        "de": "Ausgabestelle für den Frankfurt-Pass für Vergünstigungen."
+      },
+      "description": {
+        "de": "Erstellt und gibt den Frankfurt-Pass für berechtigte Einwohner unentgeltlich aus."
+      },
+      "address": "Marktplatz 1",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "buergerbuero@frankfurt-oder.de",
+      "phone": "0335 552 33 30"
+    },
+    "8a8d5dca-4e58-4661-a338-b29e2a61c81e": {
+      "title": "Gemeinnützige Pflege- und Betreuungsgesellschaft mbH",
+      "state": "draft",
+      "brief": {
+        "de": "Anbieter für vollstationäre Pflege, Kurzzeitpflege und Therapie."
+      },
+      "description": {
+        "de": "Bietet Seniorenheime, Wohn- und Pflegezentren sowie Physiotherapie und Ergotherapie an."
+      },
+      "address": "Jungclaussenweg 5",
+      "zip": "15232",
+      "city": "Frankfurt (Oder)",
+      "phone": "0335 55690"
+    },
+    "36ec5b4a-8703-4cd4-b3b8-20135ce681d8": {
+      "title": "Wichern Diakonie Frankfurt (Oder) e.V.",
+      "state": "draft",
+      "brief": {
+        "de": "Träger für vielfältige soziale Dienstleistungen und Pflege."
+      },
+      "description": {
+        "de": "Bietet Servicewohnen, Hospiz, Tagespflege, Demenz-WGs, Schuldnerberatung und soziale Hilfen."
+      },
+      "address": "Luisenstraße 21-24",
+      "zip": "15230",
+      "city": "Frankfurt (Oder)",
+      "email": "info@wichern-ffo.de",
+      "phone": "0335 5556-709"
+    }
+  }
+}
